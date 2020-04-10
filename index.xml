@@ -7,16 +7,17 @@
       <email>help@openlawlib.org</email>
     </contact>
     <canonical-urls>
-      <xml-bulk>https://github.com/sanipueblo/law-xml</xml-bulk>
-      <html-bulk>https://github.com/sanipueblo/law-html</html-bulk>
+      <xml-bulk>https://github.com/oll-test-repos/sanipueblo-law-xml</xml-bulk>
+      <html-bulk>https://github.com/oll-test-repos/sanipueblo-law-html</html-bulk>
+      <static-assets>https://github.com/oll-test-repos/sanipueblo-law-static-assets</static-assets>
       <html>https://law.sanipueblo.org</html>
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="074d2a467ea4a3a63e7487364e6ae843573d00a5"/>
+        <repository name="sanipueblo/law-xml" commit="c628e32de46586b131ff5376daf6353c5958513b"/>
       </repositories>
-      <platform version="2020.2.0.dev8619" reproducible="true"/>
-      <build-date>2020-03-26</build-date>
+      <platform version="2020.2.0.dev9000" reproducible="true"/>
+      <build-date>2020-04-10</build-date>
       <codified-date>2019-10-22</codified-date>
     </build>
   </meta>
