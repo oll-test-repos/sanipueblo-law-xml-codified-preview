@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
   <prefix>Title</prefix>
   <num>6</num>
   <heading>ADMINISTRATION</heading>
@@ -441,6 +441,41 @@
           <text>The Pueblo's FY 2015-2016 Annual Budget is divided into three (4) categories with the following amounts:</text>
           <text>
             <table>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$2,505,812</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td>$4,162,541</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td>$3,250,000</td>
+                </tr>
+                <tr>
+                  <td>PROPRIETARY FUND</td>
+                  <td>$702,213</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo de San Ildefonso's total FY 2015-2016 Annual Budget Council is $10,620,566.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-014"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.1.020</num>
+        <text>The Pueblo de San Ildefonso Annual Budget for Fiscal Year 2015-2016 consists of the following budgets and amounts:</text>
+        <text>
+          <table>
+            <tbody>
               <tr>
                 <td>GENERAL FUND</td>
                 <td>$2,505,812</td>
@@ -457,39 +492,7 @@
                 <td>PROPRIETARY FUND</td>
                 <td>$702,213</td>
               </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The Pueblo de San Ildefonso's total FY 2015-2016 Annual Budget Council is $10,620,566.</text>
-        </para>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-014"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.1.020</num>
-        <heading/>
-        <text>The Pueblo de San Ildefonso Annual Budget for Fiscal Year 2015-2016 consists of the following budgets and amounts:</text>
-        <text>
-          <table>
-            <tr>
-              <td>GENERAL FUND</td>
-              <td>$2,505,812</td>
-            </tr>
-            <tr>
-              <td>SPECIAL REVENUE FUND</td>
-              <td>$4,162,541</td>
-            </tr>
-            <tr>
-              <td>CAPITAL PROJECTS FUND</td>
-              <td>$3,250,000</td>
-            </tr>
-            <tr>
-              <td>PROPRIETARY FUND</td>
-              <td>$702,213</td>
-            </tr>
+            </tbody>
           </table>
         </text>
         <annotations>
@@ -498,7 +501,6 @@
       </section>
       <section>
         <num>6.3.1.030</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby approves and enacts the attached Annual Budget in the total amount of $10,749,566 effective July 1, 2015 to June 30, 2016.</text>
         <text>
           <strong>[NEED ATTACHMENT]</strong>
@@ -509,7 +511,6 @@
       </section>
       <section>
         <num>6.3.1.040</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso shall not expend any General Fund Capital Project funds without prior approval from the Tribal Council.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-014"/>
@@ -517,7 +518,6 @@
       </section>
       <section>
         <num>6.3.1.050</num>
-        <heading/>
         <text>The Tribal Administration is directed to provide the Council no less than quarterly with a financial report that shows budget variances in revenues and expenditures.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-014"/>
@@ -539,22 +539,24 @@
           <text>The Pueblo's FY 2015-2016 Annual Budget is divided into four (4) categories with the following amounts:</text>
           <text>
             <table>
-              <tr>
-                <td>GENERAL FUND (GF)</td>
-                <td>$2,505,812</td>
-              </tr>
-              <tr>
-                <td>SPECIAL REVENUE FUND (SRF)</td>
-                <td>$4,162,541</td>
-              </tr>
-              <tr>
-                <td>CAPITAL PROJECTS FUND (CPF)</td>
-                <td>$3,250,000</td>
-              </tr>
-              <tr>
-                <td>PROPRIETARY FUND (PF)</td>
-                <td>$702,213</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND (GF)</td>
+                  <td>$2,505,812</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND (SRF)</td>
+                  <td>$4,162,541</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND (CPF)</td>
+                  <td>$3,250,000</td>
+                </tr>
+                <tr>
+                  <td>PROPRIETARY FUND (PF)</td>
+                  <td>$702,213</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -587,28 +589,30 @@
           <text>The Pueblo's FY 2015-2016 New funding is identified per the following:</text>
           <text>
             <table>
-              <tr>
-                <td>(1) SRF:	USDA – Pajarito Waste Water</td>
-                <td>$130,000</td>
-              </tr>
-              <tr>
-                <td>(2) SRF:	BIA – Child Passenger Safety Seat</td>
-                <td>$5,000</td>
-              </tr>
-              <tr>
-                <td>(3) SRF:	BOR – Irrigation Planning</td>
-                <td>$150,269</td>
-              </tr>
-              <tr>
-                <td>(4) SRF:	BIA (OTJS) – Tribal Code</td>
-                <td>
-                  <u>$50,000</u>
-                </td>
-              </tr>
-              <tr>
-                <td>Total Special Revenue Fund</td>
-                <td>$335,269</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>(1) SRF:	USDA – Pajarito Waste Water</td>
+                  <td>$130,000</td>
+                </tr>
+                <tr>
+                  <td>(2) SRF:	BIA – Child Passenger Safety Seat</td>
+                  <td>$5,000</td>
+                </tr>
+                <tr>
+                  <td>(3) SRF:	BOR – Irrigation Planning</td>
+                  <td>$150,269</td>
+                </tr>
+                <tr>
+                  <td>(4) SRF:	BIA (OTJS) – Tribal Code</td>
+                  <td>
+                    <u>$50,000</u>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Total Special Revenue Fund</td>
+                  <td>$335,269</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -621,6 +625,72 @@
           <text>The modified Pueblo's FY 2015-2016 Annual Budget will be modified to reflect the following amounts:</text>
           <text>
             <table>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$2,505,812</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td>$4,497,810</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td>$3,250,000</td>
+                </tr>
+                <tr>
+                  <td>PROPRIETARY FUND</td>
+                  <td>$702,213</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The Pueblo's total FY 2015-2016 Annual Budget will be $10,955,835.</text>
+        </para>
+        <annotations/>
+      </section>
+      <section>
+        <num>6.3.2.020</num>
+        <text>The Pueblo de San Ildefonso Tribal Council hereby approves the "New Funding Council Adjustment NF-1" and modifies the Annual Budget for Fiscal Year 2015-2016 which consists of the following budgets and amounts:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>(a) USDA – Pajarito Waste Water</td>
+                <td>$130,000</td>
+              </tr>
+              <tr>
+                <td>(b) BIA – Child Passenger Safety Seat</td>
+                <td>$5,000</td>
+              </tr>
+              <tr>
+                <td>(c) BOR – Irrigation Planning</td>
+                <td>$150,269</td>
+              </tr>
+              <tr>
+                <td>(d) BIA (OTJS) – Tribal Code</td>
+                <td>
+                  <u>$50,000</u>
+                </td>
+              </tr>
+              <tr>
+                <td>Total Special Revenue Fund</td>
+                <td>$335,269</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <annotations/>
+      </section>
+      <section>
+        <num>6.3.2.030</num>
+        <text>The Pueblo de San Ildefonso Tribal Annual Budget for Fiscal Year 2015-2016 as modified consists of the following budgets and amounts:</text>
+        <text>
+          <table>
+            <tbody>
               <tr>
                 <td>GENERAL FUND</td>
                 <td>$2,505,812</td>
@@ -637,76 +707,13 @@
                 <td>PROPRIETARY FUND</td>
                 <td>$702,213</td>
               </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>The Pueblo's total FY 2015-2016 Annual Budget will be $10,955,835.</text>
-        </para>
-        <annotations/>
-      </section>
-      <section>
-        <num>6.3.2.020</num>
-        <heading/>
-        <text>The Pueblo de San Ildefonso Tribal Council hereby approves the "New Funding Council Adjustment NF-1" and modifies the Annual Budget for Fiscal Year 2015-2016 which consists of the following budgets and amounts:</text>
-        <text>
-          <table>
-            <tr>
-              <td>(a) USDA – Pajarito Waste Water</td>
-              <td>$130,000</td>
-            </tr>
-            <tr>
-              <td>(b) BIA – Child Passenger Safety Seat</td>
-              <td>$5,000</td>
-            </tr>
-            <tr>
-              <td>(c) BOR – Irrigation Planning</td>
-              <td>$150,269</td>
-            </tr>
-            <tr>
-              <td>(d) BIA (OTJS) – Tribal Code</td>
-              <td>
-                <u>$50,000</u>
-              </td>
-            </tr>
-            <tr>
-              <td>Total Special Revenue Fund</td>
-              <td>$335,269</td>
-            </tr>
-          </table>
-        </text>
-        <annotations/>
-      </section>
-      <section>
-        <num>6.3.2.030</num>
-        <heading/>
-        <text>The Pueblo de San Ildefonso Tribal Annual Budget for Fiscal Year 2015-2016 as modified consists of the following budgets and amounts:</text>
-        <text>
-          <table>
-            <tr>
-              <td>GENERAL FUND</td>
-              <td>$2,505,812</td>
-            </tr>
-            <tr>
-              <td>SPECIAL REVENUE FUND</td>
-              <td>$4,497,810</td>
-            </tr>
-            <tr>
-              <td>CAPITAL PROJECTS FUND</td>
-              <td>$3,250,000</td>
-            </tr>
-            <tr>
-              <td>PROPRIETARY FUND</td>
-              <td>$702,213</td>
-            </tr>
+            </tbody>
           </table>
         </text>
         <annotations/>
       </section>
       <section>
         <num>6.3.2.040</num>
-        <heading/>
         <text>The Council hereby approves the identified adjustments and enacts the Annual Budget in the total amount of $10,955,835 effective upon the passage of this resolution.</text>
         <annotations/>
       </section>
@@ -727,22 +734,24 @@
           <text>The Pueblo de San Ildefonso's ("Pueblo") FY 2015-2016 Annual Budget is divided into four (4) categories with the following amounts:</text>
           <text>
             <table>
-              <tr>
-                <td>GENERAL FUND <strong>(GF)</strong></td>
-                <td>$2,505,812</td>
-              </tr>
-              <tr>
-                <td>SPECIAL REVENUE FUND <strong>(SRF)</strong></td>
-                <td>$4,497,810</td>
-              </tr>
-              <tr>
-                <td>CAPITAL PROJECTS FUND <strong>(CPF)</strong></td>
-                <td>$3,250,000</td>
-              </tr>
-              <tr>
-                <td>PROPRIETARY FUND <strong>(PF)</strong></td>
-                <td>$702,213</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND <strong>(GF)</strong></td>
+                  <td>$2,505,812</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND <strong>(SRF)</strong></td>
+                  <td>$4,497,810</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND <strong>(CPF)</strong></td>
+                  <td>$3,250,000</td>
+                </tr>
+                <tr>
+                  <td>PROPRIETARY FUND <strong>(PF)</strong></td>
+                  <td>$702,213</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -771,38 +780,40 @@
           <text>The Pueblo's FY 2015-2016 New Funding NF-2 is identified per the following:</text>
           <text>
             <table>
-              <tr>
-                <td>(a) SRF:	I.H.S – Septic System</td>
-                <td>$25,000.00</td>
-              </tr>
-              <tr>
-                <td>(b) SRF:	BIA – Transportation: Shu Maa Po Road</td>
-                <td>$158,994.94</td>
-              </tr>
-              <tr>
-                <td>(c) SRF:	NM State Library Program</td>
-                <td>$5,333.33</td>
-              </tr>
-              <tr>
-                <td>(d) SRF:	NM State Library Program</td>
-                <td>$7,526.55</td>
-              </tr>
-              <tr>
-                <td>(e) SRF:	University of NM: Suicide Prevention</td>
-                <td>$20,000.00</td>
-              </tr>
-              <tr>
-                <td>(f) GF:	Healthy Kids</td>
-                <td>$1,820.00</td>
-              </tr>
-              <tr>
-                <td>(g) GF:	Youth Program: Winter Summit</td>
-                <td>$12,762.00</td>
-              </tr>
-              <tr>
-                <td>Total Adjustment</td>
-                <td>$231,436.82</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>(a) SRF:	I.H.S – Septic System</td>
+                  <td>$25,000.00</td>
+                </tr>
+                <tr>
+                  <td>(b) SRF:	BIA – Transportation: Shu Maa Po Road</td>
+                  <td>$158,994.94</td>
+                </tr>
+                <tr>
+                  <td>(c) SRF:	NM State Library Program</td>
+                  <td>$5,333.33</td>
+                </tr>
+                <tr>
+                  <td>(d) SRF:	NM State Library Program</td>
+                  <td>$7,526.55</td>
+                </tr>
+                <tr>
+                  <td>(e) SRF:	University of NM: Suicide Prevention</td>
+                  <td>$20,000.00</td>
+                </tr>
+                <tr>
+                  <td>(f) GF:	Healthy Kids</td>
+                  <td>$1,820.00</td>
+                </tr>
+                <tr>
+                  <td>(g) GF:	Youth Program: Winter Summit</td>
+                  <td>$12,762.00</td>
+                </tr>
+                <tr>
+                  <td>Total Adjustment</td>
+                  <td>$231,436.82</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -815,6 +826,88 @@
           <text>The modified Pueblo's FY 2015-2016 Annual Budget is divided into the following amounts:</text>
           <text>
             <table>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$2,520,394.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td>$4,714,664.82</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td>$3,250,000.00</td>
+                </tr>
+                <tr>
+                  <td>PROPRIETARY FUND</td>
+                  <td>$702,213.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The Pueblo's total FY 2015-2016 Annual Budget will be $11,187,271.82.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-001"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.3.020</num>
+        <text>The Council hereby approves the "New Funding Council Adjustment" <strong>"NF-2"</strong> and adjusts the Annual Budget for Fiscal Year 2015-2016 which consists of the following budgets and amounts:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td><strong>(a) SRF:</strong>	I.H.S – Septic System</td>
+                <td>$25,000.00</td>
+              </tr>
+              <tr>
+                <td><strong>(b) SRF:</strong>	BIA – Transportation: Shu Maa Po Road</td>
+                <td>$158,994.94</td>
+              </tr>
+              <tr>
+                <td><strong>(c) SRF:</strong>	NM State Library Program</td>
+                <td>$5,333.33</td>
+              </tr>
+              <tr>
+                <td><strong>(d) SRF:</strong>	NM State Library Program</td>
+                <td>$7,526.55</td>
+              </tr>
+              <tr>
+                <td><strong>(e) SRF:</strong>	University of NM: Suicide Prevention</td>
+                <td>$20,000.00</td>
+              </tr>
+              <tr>
+                <td><strong>(f) GF:</strong>	Healthy Kids</td>
+                <td>$1,820.00</td>
+              </tr>
+              <tr>
+                <td><strong>(g) GF:</strong>	Youth Program: Winter Summit</td>
+                <td>
+                  <u>$12,762.00</u>
+                </td>
+              </tr>
+              <tr>
+                <th>Total Council Adjustment</th>
+                <td>$231,436.82</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-001"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.3.030</num>
+        <text>The Annual Budget for Fiscal Year 2015-2016 is adjusted with the following budgets and amounts:</text>
+        <text>
+          <table>
+            <tbody>
               <tr>
                 <td>GENERAL FUND</td>
                 <td>$2,520,394.00</td>
@@ -831,85 +924,7 @@
                 <td>PROPRIETARY FUND</td>
                 <td>$702,213.00</td>
               </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>The Pueblo's total FY 2015-2016 Annual Budget will be $11,187,271.82.</text>
-        </para>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-001"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.3.020</num>
-        <heading/>
-        <text>The Council hereby approves the "New Funding Council Adjustment" <strong>"NF-2"</strong> and adjusts the Annual Budget for Fiscal Year 2015-2016 which consists of the following budgets and amounts:</text>
-        <text>
-          <table>
-            <tr>
-              <td><strong>(a) SRF:</strong>	I.H.S – Septic System</td>
-              <td>$25,000.00</td>
-            </tr>
-            <tr>
-              <td><strong>(b) SRF:</strong>	BIA – Transportation: Shu Maa Po Road</td>
-              <td>$158,994.94</td>
-            </tr>
-            <tr>
-              <td><strong>(c) SRF:</strong>	NM State Library Program</td>
-              <td>$5,333.33</td>
-            </tr>
-            <tr>
-              <td><strong>(d) SRF:</strong>	NM State Library Program</td>
-              <td>$7,526.55</td>
-            </tr>
-            <tr>
-              <td><strong>(e) SRF:</strong>	University of NM: Suicide Prevention</td>
-              <td>$20,000.00</td>
-            </tr>
-            <tr>
-              <td><strong>(f) GF:</strong>	Healthy Kids</td>
-              <td>$1,820.00</td>
-            </tr>
-            <tr>
-              <td><strong>(g) GF:</strong>	Youth Program: Winter Summit</td>
-              <td>
-                <u>$12,762.00</u>
-              </td>
-            </tr>
-            <tr>
-              <th>Total Council Adjustment</th>
-              <td>$231,436.82</td>
-            </tr>
-          </table>
-        </text>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-001"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.3.030</num>
-        <heading/>
-        <text>The Annual Budget for Fiscal Year 2015-2016 is adjusted with the following budgets and amounts:</text>
-        <text>
-          <table>
-            <tr>
-              <td>GENERAL FUND</td>
-              <td>$2,520,394.00</td>
-            </tr>
-            <tr>
-              <td>SPECIAL REVENUE FUND</td>
-              <td>$4,714,664.82</td>
-            </tr>
-            <tr>
-              <td>CAPITAL PROJECTS FUND</td>
-              <td>$3,250,000.00</td>
-            </tr>
-            <tr>
-              <td>PROPRIETARY FUND</td>
-              <td>$702,213.00</td>
-            </tr>
+            </tbody>
           </table>
         </text>
         <annotations>
@@ -918,7 +933,6 @@
       </section>
       <section>
         <num>6.3.3.040</num>
-        <heading/>
         <text>The Council hereby approves the identified adjustments and enacts the Annual Budget in the total amount of $11,187,271.82 effective upon enactment.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-001"/>
@@ -941,22 +955,24 @@
           <text>Currently the Pueblo's total FY2015-2016 total Annual Budget is $11,028,390.38, which consists of the following categories and amounts:</text>
           <text>
             <table>
-              <tr>
-                <td>GENERAL FUND</td>
-                <td>$2,520,394.00</td>
-              </tr>
-              <tr>
-                <td>SPECIAL REVENUE FUND</td>
-                <td>$4,555,783.38</td>
-              </tr>
-              <tr>
-                <td>CAPITAL PROJECTS FUND</td>
-                <td>$3,250,000.00</td>
-              </tr>
-              <tr>
-                <td>PROPRIETARY FUND</td>
-                <td>$702,213.00</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$2,520,394.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td>$4,555,783.38</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td>$3,250,000.00</td>
+                </tr>
+                <tr>
+                  <td>PROPRIETARY FUND</td>
+                  <td>$702,213.00</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -973,18 +989,20 @@
           <text>The Pueblo's FY 2015-2016 New Funding 3 (NF-3) is identified per the following:</text>
           <text>
             <table>
-              <tr>
-                <td>(a)	SRF: BIA/Transportation TAP Sidewalk Project</td>
-                <td>$175,489</td>
-              </tr>
-              <tr>
-                <td>(b)	SRF: DOH Healthy Kids</td>
-                <td>$60,000</td>
-              </tr>
-              <tr>
-                <td>Total New Funding 3:</td>
-                <td>$235,489</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>(a)	SRF: BIA/Transportation TAP Sidewalk Project</td>
+                  <td>$175,489</td>
+                </tr>
+                <tr>
+                  <td>(b)	SRF: DOH Healthy Kids</td>
+                  <td>$60,000</td>
+                </tr>
+                <tr>
+                  <td>Total New Funding 3:</td>
+                  <td>$235,489</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -997,6 +1015,70 @@
           <text>The Pueblo's modified FY 2015-2016 Annual Budget is as follows:</text>
           <text>
             <table>
+              <tbody>
+                <tr>
+                  <td>General Fund (GF)</td>
+                  <td>$2,520,394.00</td>
+                </tr>
+                <tr>
+                  <td>Special Revenue Fund (SRF)</td>
+                  <td>$4,791,272.38</td>
+                </tr>
+                <tr>
+                  <td>Capital Projects Fund (CPF)</td>
+                  <td>$3,250,000.00</td>
+                </tr>
+                <tr>
+                  <td>Proprietary Fund (PF)</td>
+                  <td>
+                    <u>$702,213.00</u>
+                  </td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td>$11,263,879.38</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-006"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.4.020</num>
+        <text>The Council hereby approves the "New Funding Council Adjustment 3 (NF-3)" and adjusts the Annual Budget for Fiscal Year 2015-2016 by addition of the following:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>(a)	SRF: BIA/Transportation TAP Sidewalk Project</td>
+                <td>$175,489</td>
+              </tr>
+              <tr>
+                <td>(b)	SRF: DOH Healthy Kids</td>
+                <td>
+                  <u>$60,000</u>
+                </td>
+              </tr>
+              <tr>
+                <td>Total New Funding 3:</td>
+                <td>$235,489</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-006"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.4.030</num>
+        <text>The Annual Budget for Fiscal Year 2016-2017 is adjusted with new amounts as follows:</text>
+        <text>
+          <table>
+            <tbody>
               <tr>
                 <td>General Fund (GF)</td>
                 <td>$2,520,394.00</td>
@@ -1011,69 +1093,9 @@
               </tr>
               <tr>
                 <td>Proprietary Fund (PF)</td>
-                <td>
-                  <u>$702,213.00</u>
-                </td>
+                <td>$702,213.00</td>
               </tr>
-              <tr>
-                <td>TOTAL BUDGET:</td>
-                <td>$11,263,879.38</td>
-              </tr>
-            </table>
-          </text>
-        </para>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-006"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.4.020</num>
-        <heading/>
-        <text>The Council hereby approves the "New Funding Council Adjustment 3 (NF-3)" and adjusts the Annual Budget for Fiscal Year 2015-2016 by addition of the following:</text>
-        <text>
-          <table>
-            <tr>
-              <td>(a)	SRF: BIA/Transportation TAP Sidewalk Project</td>
-              <td>$175,489</td>
-            </tr>
-            <tr>
-              <td>(b)	SRF: DOH Healthy Kids</td>
-              <td>
-                <u>$60,000</u>
-              </td>
-            </tr>
-            <tr>
-              <td>Total New Funding 3:</td>
-              <td>$235,489</td>
-            </tr>
-          </table>
-        </text>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-006"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.4.030</num>
-        <heading/>
-        <text>The Annual Budget for Fiscal Year 2016-2017 is adjusted with new amounts as follows:</text>
-        <text>
-          <table>
-            <tr>
-              <td>General Fund (GF)</td>
-              <td>$2,520,394.00</td>
-            </tr>
-            <tr>
-              <td>Special Revenue Fund (SRF)</td>
-              <td>$4,791,272.38</td>
-            </tr>
-            <tr>
-              <td>Capital Projects Fund (CPF)</td>
-              <td>$3,250,000.00</td>
-            </tr>
-            <tr>
-              <td>Proprietary Fund (PF)</td>
-              <td>$702,213.00</td>
-            </tr>
+            </tbody>
           </table>
         </text>
         <annotations>
@@ -1082,7 +1104,6 @@
       </section>
       <section>
         <num>6.3.4.040</num>
-        <heading/>
         <text>The Council hereby approves the identified adjustments (NF-3) and enacts the FY 2015-2016 Annual Budget in the new total amount of $11,263,879.38.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-006"/>
@@ -1105,22 +1126,24 @@
           <text>Currently the Pueblo's total FY2015-2016 total Annual Budget is $11,263,879.38, which consists of the following categories and amounts:</text>
           <text>
             <table>
-              <tr>
-                <td>General Fund (GF)</td>
-                <td>$2,520,394.00</td>
-              </tr>
-              <tr>
-                <td>Special Revenue Fund (SRF)</td>
-                <td>$4,791,272.38</td>
-              </tr>
-              <tr>
-                <td>Capital Projects Fund (CPF)</td>
-                <td>$3,250,000.00</td>
-              </tr>
-              <tr>
-                <td>Proprietary Fund (PF)</td>
-                <td>$702,213.00</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>General Fund (GF)</td>
+                  <td>$2,520,394.00</td>
+                </tr>
+                <tr>
+                  <td>Special Revenue Fund (SRF)</td>
+                  <td>$4,791,272.38</td>
+                </tr>
+                <tr>
+                  <td>Capital Projects Fund (CPF)</td>
+                  <td>$3,250,000.00</td>
+                </tr>
+                <tr>
+                  <td>Proprietary Fund (PF)</td>
+                  <td>$702,213.00</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -1137,6 +1160,78 @@
           <text>The Pueblo's FY 2015-2016 New Funding 4 (NF-4) is identified per the following:</text>
           <text>
             <table>
+              <tbody>
+                <tr>
+                  <td>(a)	SRF:  BIA/CTGP/Aid to Tribal Government/Accounting</td>
+                  <td>
+                    <u>$16,458</u>
+                  </td>
+                </tr>
+                <tr>
+                  <td>(b)	SRF:  BIA/CTGP/Aid to Tribal Government/Governor's Office</td>
+                  <td>
+                    <u>$16,458</u>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Total New Funding 4:</td>
+                  <td>$32,916</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          <text>*See Attachment A (Memorandum)</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo's FY 2015-2016 new adjusted FY 2015-2016 Annual Budget will increase from $11,263,879.38to $11,296,795.38;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo's modified FY 2015-2016 Annual Budget is as follows:</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td>General Fund (GF)</td>
+                  <td>$2,520,394.00</td>
+                </tr>
+                <tr>
+                  <td>Special Revenue Fund (SRF)</td>
+                  <td>$4,824,188.38</td>
+                </tr>
+                <tr>
+                  <td>Capital Projects Fund (CPF)</td>
+                  <td>$3,250,000.00</td>
+                </tr>
+                <tr>
+                  <td>Proprietary Fund (PF)</td>
+                  <td>
+                    <u>$702,213.00</u>
+                  </td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td>$11,296,795.38</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council hereby approves and authorizes the "New Funding Council Adjustment 4" "NF-4" attached hereto and that such adjustments shall be effective immediately upon enactment.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-009"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.5.020</num>
+        <text>The Council hereby approves the "New Funding Council Adjustment 4 (NF-4)" and adjusts the Annual Budget for Fiscal Year 2015-2016 by addition of the following:</text>
+        <text>
+          <table>
+            <tbody>
               <tr>
                 <td>(a)	SRF:  BIA/CTGP/Aid to Tribal Government/Accounting</td>
                 <td>
@@ -1153,19 +1248,20 @@
                 <td>Total New Funding 4:</td>
                 <td>$32,916</td>
               </tr>
-            </table>
-          </text>
-          <text>*See Attachment A (Memorandum)</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The Pueblo's FY 2015-2016 new adjusted FY 2015-2016 Annual Budget will increase from $11,263,879.38to $11,296,795.38;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The Pueblo's modified FY 2015-2016 Annual Budget is as follows:</text>
-          <text>
-            <table>
+            </tbody>
+          </table>
+        </text>
+        <text>*See Attachment A (Memorandum)</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-009"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.5.030</num>
+        <text>The Annual Budget for Fiscal Year 2016-2017 is adjusted with new amounts as follows:</text>
+        <text>
+          <table>
+            <tbody>
               <tr>
                 <td>General Fund (GF)</td>
                 <td>$2,520,394.00</td>
@@ -1188,74 +1284,7 @@
                 <td>TOTAL BUDGET:</td>
                 <td>$11,296,795.38</td>
               </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The Council hereby approves and authorizes the "New Funding Council Adjustment 4" "NF-4" attached hereto and that such adjustments shall be effective immediately upon enactment.</text>
-        </para>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-009"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.5.020</num>
-        <heading/>
-        <text>The Council hereby approves the "New Funding Council Adjustment 4 (NF-4)" and adjusts the Annual Budget for Fiscal Year 2015-2016 by addition of the following:</text>
-        <text>
-          <table>
-            <tr>
-              <td>(a)	SRF:  BIA/CTGP/Aid to Tribal Government/Accounting</td>
-              <td>
-                <u>$16,458</u>
-              </td>
-            </tr>
-            <tr>
-              <td>(b)	SRF:  BIA/CTGP/Aid to Tribal Government/Governor's Office</td>
-              <td>
-                <u>$16,458</u>
-              </td>
-            </tr>
-            <tr>
-              <td>Total New Funding 4:</td>
-              <td>$32,916</td>
-            </tr>
-          </table>
-        </text>
-        <text>*See Attachment A (Memorandum)</text>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-009"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.5.030</num>
-        <heading/>
-        <text>The Annual Budget for Fiscal Year 2016-2017 is adjusted with new amounts as follows:</text>
-        <text>
-          <table>
-            <tr>
-              <td>General Fund (GF)</td>
-              <td>$2,520,394.00</td>
-            </tr>
-            <tr>
-              <td>Special Revenue Fund (SRF)</td>
-              <td>$4,824,188.38</td>
-            </tr>
-            <tr>
-              <td>Capital Projects Fund (CPF)</td>
-              <td>$3,250,000.00</td>
-            </tr>
-            <tr>
-              <td>Proprietary Fund (PF)</td>
-              <td>
-                <u>$702,213.00</u>
-              </td>
-            </tr>
-            <tr>
-              <td>TOTAL BUDGET:</td>
-              <td>$11,296,795.38</td>
-            </tr>
+            </tbody>
           </table>
         </text>
         <annotations>
@@ -1264,7 +1293,6 @@
       </section>
       <section>
         <num>6.3.5.040</num>
-        <heading/>
         <text>The Council hereby approves the identified adjustments (NF-4) and enacts the FY 2015-2016 Annual Budget in the new total amount of $11,296,795.38.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-009"/>
@@ -1287,22 +1315,24 @@
           <text>Currently the Pueblo's total FY2016-2017 total Annual Budget is $11,395,113.36, which consists of the following categories and amounts:</text>
           <text>
             <table>
-              <tr>
-                <td>General Fund (GF)</td>
-                <td>$2,233,000.00</td>
-              </tr>
-              <tr>
-                <td>Special Revenue Fund (SRF)</td>
-                <td>$6,890,197.60</td>
-              </tr>
-              <tr>
-                <td>Capital Projects Fund (CPF)</td>
-                <td>$1,010,770.50</td>
-              </tr>
-              <tr>
-                <td>Business Fund (BF)</td>
-                <td>$1,261,145.26</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>General Fund (GF)</td>
+                  <td>$2,233,000.00</td>
+                </tr>
+                <tr>
+                  <td>Special Revenue Fund (SRF)</td>
+                  <td>$6,890,197.60</td>
+                </tr>
+                <tr>
+                  <td>Capital Projects Fund (CPF)</td>
+                  <td>$1,010,770.50</td>
+                </tr>
+                <tr>
+                  <td>Business Fund (BF)</td>
+                  <td>$1,261,145.26</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -1319,6 +1349,93 @@
           <text>The Pueblo's FY 2016-2017 New Funding 1 (NF-1) is identified per the following:</text>
           <text>
             <table>
+              <tbody>
+                <tr>
+                  <td>(a) <u>SRF:  EPA/106 Water Quality</u> 2016/2017,</td>
+                  <td>Term: 1/1/17-12/31/17</td>
+                  <td>$81,658</td>
+                </tr>
+                <tr>
+                  <td>(b) <u>SRF:  Institute of Museum and  Library Services (IMLS),</u></td>
+                  <td>Term 8/1/16-7/31/17</td>
+                  <td>$6,000</td>
+                </tr>
+                <tr>
+                  <td>(c) <u>SRF:  NM Public Education Department (PED)</u>, Tewa Revitalization &amp; Preservation,</td>
+                  <td>Term: 7/28/16-6/30/17</td>
+                  <td>$30,000</td>
+                </tr>
+                <tr>
+                  <td>(d) <u>GF:  DOE Norton Line ROW</u>,</td>
+                  <td>Term: 7/1/16 – 6/30/17</td>
+                  <td>
+                    <u>$96,628</u>
+                  </td>
+                </tr>
+                <tr>
+                  <th colspan="2">Total FY 2016-17 New Funding-1 (NF-1):</th>
+                  <th>$214,286</th>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo's FY 2016-2017 new adjusted FY 2016-2017 Annual Budget will increase from $11,395,113.36 to $11,609,399.36;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo's modified FY 2016-2017 Annual Budget is as follows:</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td>General Fund (GF)</td>
+                  <td>$2,329,628.00</td>
+                </tr>
+                <tr>
+                  <td>Special Revenue Fund (SRF)</td>
+                  <td>$7,007,855.60</td>
+                </tr>
+                <tr>
+                  <td>Capital Projects Fund (CPF)</td>
+                  <td>$3,250,000.00</td>
+                </tr>
+                <tr>
+                  <td>Business Fund (BF)</td>
+                  <td>
+                    <u>$1,261,145.26</u>
+                  </td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td>
+                    <u>$11,609,399.36</u>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council hereby approves and authorizes the "FY 2016-2017 New Funding Council Adjustment 1 (NF-1)" attached hereto and that such adjustments shall be effective immediately upon enactment;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.6.020</num>
+        <text>The Council hereby approves the "New Funding Council Adjustment 1 (NF-1)" and adjusts the Annual Budget for Fiscal Year 2016-2017 by addition of the following:</text>
+        <text>
+          <table>
+            <tbody>
               <tr>
                 <td>(a) <u>SRF:  EPA/106 Water Quality</u> 2016/2017,</td>
                 <td>Term: 1/1/17-12/31/17</td>
@@ -1330,7 +1447,7 @@
                 <td>$6,000</td>
               </tr>
               <tr>
-                <td>(c) <u>SRF:  NM Public Education Department (PED)</u>, Tewa Revitalization &amp; Preservation,</td>
+                <td>(c) SRF:  NM Public Education Department (PED), Tewa Revitalization &amp; Preservation,</td>
                 <td>Term: 7/28/16-6/30/17</td>
                 <td>$30,000</td>
               </tr>
@@ -1345,18 +1462,19 @@
                 <th colspan="2">Total FY 2016-17 New Funding-1 (NF-1):</th>
                 <th>$214,286</th>
               </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The Pueblo's FY 2016-2017 new adjusted FY 2016-2017 Annual Budget will increase from $11,395,113.36 to $11,609,399.36;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The Pueblo's modified FY 2016-2017 Annual Budget is as follows:</text>
-          <text>
-            <table>
+            </tbody>
+          </table>
+        </text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.6.030</num>
+        <text>The Annual Budget for Fiscal Year 2016-2017 is adjusted with new amounts as follows:</text>
+        <text>
+          <table>
+            <tbody>
               <tr>
                 <td>General Fund (GF)</td>
                 <td>$2,329,628.00</td>
@@ -1381,89 +1499,7 @@
                   <u>$11,609,399.36</u>
                 </td>
               </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The Council hereby approves and authorizes the "FY 2016-2017 New Funding Council Adjustment 1 (NF-1)" attached hereto and that such adjustments shall be effective immediately upon enactment;</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-        </para>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.6.020</num>
-        <heading/>
-        <text>The Council hereby approves the "New Funding Council Adjustment 1 (NF-1)" and adjusts the Annual Budget for Fiscal Year 2016-2017 by addition of the following:</text>
-        <text>
-          <table>
-            <tr>
-              <td>(a) <u>SRF:  EPA/106 Water Quality</u> 2016/2017,</td>
-              <td>Term: 1/1/17-12/31/17</td>
-              <td>$81,658</td>
-            </tr>
-            <tr>
-              <td>(b) <u>SRF:  Institute of Museum and  Library Services (IMLS),</u></td>
-              <td>Term 8/1/16-7/31/17</td>
-              <td>$6,000</td>
-            </tr>
-            <tr>
-              <td>(c) SRF:  NM Public Education Department (PED), Tewa Revitalization &amp; Preservation,</td>
-              <td>Term: 7/28/16-6/30/17</td>
-              <td>$30,000</td>
-            </tr>
-            <tr>
-              <td>(d) <u>GF:  DOE Norton Line ROW</u>,</td>
-              <td>Term: 7/1/16 – 6/30/17</td>
-              <td>
-                <u>$96,628</u>
-              </td>
-            </tr>
-            <tr>
-              <th colspan="2">Total FY 2016-17 New Funding-1 (NF-1):</th>
-              <th>$214,286</th>
-            </tr>
-          </table>
-        </text>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.6.030</num>
-        <heading/>
-        <text>The Annual Budget for Fiscal Year 2016-2017 is adjusted with new amounts as follows:</text>
-        <text>
-          <table>
-            <tr>
-              <td>General Fund (GF)</td>
-              <td>$2,329,628.00</td>
-            </tr>
-            <tr>
-              <td>Special Revenue Fund (SRF)</td>
-              <td>$7,007,855.60</td>
-            </tr>
-            <tr>
-              <td>Capital Projects Fund (CPF)</td>
-              <td>$3,250,000.00</td>
-            </tr>
-            <tr>
-              <td>Business Fund (BF)</td>
-              <td>
-                <u>$1,261,145.26</u>
-              </td>
-            </tr>
-            <tr>
-              <td>TOTAL BUDGET:</td>
-              <td>
-                <u>$11,609,399.36</u>
-              </td>
-            </tr>
+            </tbody>
           </table>
         </text>
         <annotations>
@@ -1472,7 +1508,6 @@
       </section>
       <section>
         <num>6.3.6.040</num>
-        <heading/>
         <text>The Council hereby approves the identified adjustments (FY 2016-17 NF-1) and enacts the FY 2016-2017 Annual Budget in the new total amount of $11,609,399.36.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
@@ -1495,22 +1530,24 @@
           <text>Currently the Pueblo's total Fiscal Year (FY) 2016-2017 Annual Budget is $11,609,399.36 which consists of the following categories and amounts:</text>
           <text>
             <table>
-              <tr>
-                <td>General Fund (GF)</td>
-                <td>$2,329,628.00</td>
-              </tr>
-              <tr>
-                <td>Special Revenue Fund (SRF)</td>
-                <td>$7,007,855.60</td>
-              </tr>
-              <tr>
-                <td>Capital Projects Fund (CPF)</td>
-                <td>$1,010,770.50</td>
-              </tr>
-              <tr>
-                <td>Business Fund (BF)</td>
-                <td>$1,261,145.26</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>General Fund (GF)</td>
+                  <td>$2,329,628.00</td>
+                </tr>
+                <tr>
+                  <td>Special Revenue Fund (SRF)</td>
+                  <td>$7,007,855.60</td>
+                </tr>
+                <tr>
+                  <td>Capital Projects Fund (CPF)</td>
+                  <td>$1,010,770.50</td>
+                </tr>
+                <tr>
+                  <td>Business Fund (BF)</td>
+                  <td>$1,261,145.26</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -1527,6 +1564,93 @@
           <text>The Pueblo's FY 2016-2017 New Funding 2 (NF-2) is identified per the following:</text>
           <text>
             <table>
+              <tbody>
+                <tr>
+                  <td>(a) <u>SRF:  Los Alamos Pueblo Project (LAPP)</u></td>
+                  <td>$675,000.00</td>
+                </tr>
+                <tr>
+                  <td>(b) <u>SRF: Natural Resources Damage Assessment (NRDA)</u></td>
+                  <td>$50,000.00</td>
+                </tr>
+                <tr>
+                  <td>(c) <u>SRF:  NM State Library/Grants-in-Aid</u></td>
+                  <td>$7,732.67</td>
+                </tr>
+                <tr>
+                  <td>(d) <u>SRF:  NM State Library/Tribal Libraries Program</u></td>
+                  <td>$5,393.26</td>
+                </tr>
+                <tr>
+                  <td>(e) <u>GF:  Winter Youth Summit</u></td>
+                  <td>
+                    <u>$7,651.00</u>
+                  </td>
+                </tr>
+                <tr>
+                  <th>Total FY 2016-17 New Funding-2 (NF-2):</th>
+                  <th>$745,776.93</th>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo's FY 2016-2017 new adjusted FY 2016-2017 Annual Budget will increase from $11,609,399.36 to $12,355,176.29;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Pueblo's modified FY 2016-2017 Annual Budget is as follows:</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td>General Fund (GF)</td>
+                  <td>$2,337,279.00</td>
+                </tr>
+                <tr>
+                  <td>Special Revenue Fund (SRF)</td>
+                  <td>$7,745,981.53</td>
+                </tr>
+                <tr>
+                  <td>Capital Projects Fund (CPF)</td>
+                  <td>$1,010,770.50</td>
+                </tr>
+                <tr>
+                  <td>Business Fund (BF)</td>
+                  <td>
+                    <u>$1,261,145.26</u>
+                  </td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td>
+                    <u>$12,355,176.29</u>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Council hereby approves and authorizes the "FY 2016-2017 New Funding Council Adjustment 2" (NF-2) attached hereto and such adjustments shall be effective immediately upon enactment.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.7.020</num>
+        <text>The Council hereby approves the New Funding Council Adjustment 2 (NF-2) and adjusts the Annual Budget for Fiscal Year 2016-2017 by addition of the following:</text>
+        <text>
+          <table>
+            <tbody>
               <tr>
                 <td>(a) <u>SRF:  Los Alamos Pueblo Project (LAPP)</u></td>
                 <td>$675,000.00</td>
@@ -1553,22 +1677,25 @@
                 <th>Total FY 2016-17 New Funding-2 (NF-2):</th>
                 <th>$745,776.93</th>
               </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The Pueblo's FY 2016-2017 new adjusted FY 2016-2017 Annual Budget will increase from $11,609,399.36 to $12,355,176.29;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The Pueblo's modified FY 2016-2017 Annual Budget is as follows:</text>
-          <text>
-            <table>
+            </tbody>
+          </table>
+        </text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
+        </annotations>
+      </section>
+      <section>
+        <num>6.3.7.030</num>
+        <text>The Annual Budget for Fiscal Year 2016-2017 is adjusted with new amounts as follows:</text>
+        <text>
+          <table>
+            <thead>
               <tr>
-                <td>General Fund (GF)</td>
-                <td>$2,337,279.00</td>
+                <th>General Fund (GF)</th>
+                <th>$2,337,279.00</th>
               </tr>
+            </thead>
+            <tbody>
               <tr>
                 <td>Special Revenue Fund (SRF)</td>
                 <td>$7,745,981.53</td>
@@ -1584,94 +1711,12 @@
                 </td>
               </tr>
               <tr>
-                <td>TOTAL BUDGET:</td>
+                <th>TOTAL BUDGET:</th>
                 <td>
                   <u>$12,355,176.29</u>
                 </td>
               </tr>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The Council hereby approves and authorizes the "FY 2016-2017 New Funding Council Adjustment 2" (NF-2) attached hereto and such adjustments shall be effective immediately upon enactment.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
-        </para>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.7.020</num>
-        <heading/>
-        <text>The Council hereby approves the New Funding Council Adjustment 2 (NF-2) and adjusts the Annual Budget for Fiscal Year 2016-2017 by addition of the following:</text>
-        <text>
-          <table>
-            <tr>
-              <td>(a) <u>SRF:  Los Alamos Pueblo Project (LAPP)</u></td>
-              <td>$675,000.00</td>
-            </tr>
-            <tr>
-              <td>(b) <u>SRF: Natural Resources Damage Assessment (NRDA)</u></td>
-              <td>$50,000.00</td>
-            </tr>
-            <tr>
-              <td>(c) <u>SRF:  NM State Library/Grants-in-Aid</u></td>
-              <td>$7,732.67</td>
-            </tr>
-            <tr>
-              <td>(d) <u>SRF:  NM State Library/Tribal Libraries Program</u></td>
-              <td>$5,393.26</td>
-            </tr>
-            <tr>
-              <td>(e) <u>GF:  Winter Youth Summit</u></td>
-              <td>
-                <u>$7,651.00</u>
-              </td>
-            </tr>
-            <tr>
-              <th>Total FY 2016-17 New Funding-2 (NF-2):</th>
-              <th>$745,776.93</th>
-            </tr>
-          </table>
-        </text>
-        <annotations>
-          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
-        </annotations>
-      </section>
-      <section>
-        <num>6.3.7.030</num>
-        <heading/>
-        <text>The Annual Budget for Fiscal Year 2016-2017 is adjusted with new amounts as follows:</text>
-        <text>
-          <table>
-            <tr>
-              <th>General Fund (GF)</th>
-              <th>$2,337,279.00</th>
-            </tr>
-            <tr>
-              <td>Special Revenue Fund (SRF)</td>
-              <td>$7,745,981.53</td>
-            </tr>
-            <tr>
-              <td>Capital Projects Fund (CPF)</td>
-              <td>$1,010,770.50</td>
-            </tr>
-            <tr>
-              <td>Business Fund (BF)</td>
-              <td>
-                <u>$1,261,145.26</u>
-              </td>
-            </tr>
-            <tr>
-              <th>TOTAL BUDGET:</th>
-              <td>
-                <u>$12,355,176.29</u>
-              </td>
-            </tr>
+            </tbody>
           </table>
         </text>
         <annotations>
@@ -1680,7 +1725,6 @@
       </section>
       <section>
         <num>6.3.7.040</num>
-        <heading/>
         <text>The Council hereby approves the identified adjustments (FY 2016-17 NF-2) and enacts the FY 2016-2017 Annual Budget in the new total amount of $12,355,176.29.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-023"/>
@@ -1739,26 +1783,28 @@
           <text>The Governor's Office, in coordination with the Council Budget, Finance, and Taxation Committee, developed the proposed budget attached to this Resolution ("FY 2016-2017 Annual Budget") and the Council Budget, Finance, and Taxation Committee recommended approval of the attached FY 2016-2017 Annual Budget as summarized below;</text>
           <text>
             <table>
-              <tr>
-                <td>General Fund</td>
-                <td>$2,233,000.00</td>
-              </tr>
-              <tr>
-                <td>Special Revenue Fund</td>
-                <td>$6,890,197.60</td>
-              </tr>
-              <tr>
-                <td>Capital Projects Fund</td>
-                <td>$1,010,770.50</td>
-              </tr>
-              <tr>
-                <td>Business Fund</td>
-                <td>$1,261,145.26</td>
-              </tr>
-              <tr>
-                <td>Total Budget:</td>
-                <td>$11,395,113.36</td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>General Fund</td>
+                  <td>$2,233,000.00</td>
+                </tr>
+                <tr>
+                  <td>Special Revenue Fund</td>
+                  <td>$6,890,197.60</td>
+                </tr>
+                <tr>
+                  <td>Capital Projects Fund</td>
+                  <td>$1,010,770.50</td>
+                </tr>
+                <tr>
+                  <td>Business Fund</td>
+                  <td>$1,261,145.26</td>
+                </tr>
+                <tr>
+                  <td>Total Budget:</td>
+                  <td>$11,395,113.36</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -1772,7 +1818,6 @@
       </section>
       <section>
         <num>6.3.8.020</num>
-        <heading/>
         <text>The Council hereby:</text>
         <para>
           <num>(a)</num>
@@ -1803,33 +1848,39 @@
           <text>Approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor or his designee to take such actions as deemed necessary to carry out the intent of this resolution.</text>
           <text>
             <table>
-              <tr>
-                <th>ANNUAL BUDGET:   FISCAL YEAR 2016-2017</th>
-              </tr>
-              <tr>
-                <td>GENERAL FUND</td>
-                <td>$      2,233,000.00</td>
-              </tr>
-              <tr>
-                <td>SPECIAL REVENUE FUND</td>
-                <td>$      6,890,197.60</td>
-              </tr>
-              <tr>
-                <td>CAPITAL PROJECTS FUND</td>
-                <td>$      1,010,770.50</td>
-              </tr>
-              <tr>
-                <td>BUSINESS FUND</td>
-                <td>$      1,261,145.26</td>
-              </tr>
-              <tr>
-                <td>TOTAL BUDGET:</td>
-                <td>$    11,395,113.36</td>
-              </tr>
+              <thead>
+                <tr>
+                  <th>ANNUAL BUDGET:   FISCAL YEAR 2016-2017</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$      2,233,000.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td>$      6,890,197.60</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td>$      1,010,770.50</td>
+                </tr>
+                <tr>
+                  <td>BUSINESS FUND</td>
+                  <td>$      1,261,145.26</td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td>$    11,395,113.36</td>
+                </tr>
+              </tbody>
+              <tfoot>
+                <tr>
+                  <td colspan="2">Annual Budget including program budgets is attached as a separate document.</td>
+                </tr>
+              </tfoot>
             </table>
-          </text>
-          <text>
-            <center>Annual Budget including program budgets is attached as a separate document.</center>
           </text>
         </para>
         <annotations>
@@ -1865,29 +1916,33 @@
           <text>The Council approved the FY2016-2017 Annual Budget on June 16, 2016, and has implemented two New Funding Adjustments resulting in the current budget total as follows:</text>
           <text>
             <table>
-              <tr>
-                <th>ANNUAL BUDGET:   FISCAL YEAR 2016-2017</th>
-              </tr>
-              <tr>
-                <td>GENERAL FUND</td>
-                <td>$      2,337,279.00</td>
-              </tr>
-              <tr>
-                <td>SPECIAL REVENUE FUND</td>
-                <td>$      7,745,981.53</td>
-              </tr>
-              <tr>
-                <td>CAPITAL PROJECTS FUND</td>
-                <td>$      1,010,770.50</td>
-              </tr>
-              <tr>
-                <td>BUSINESS FUND</td>
-                <td>$      1,261,145.26</td>
-              </tr>
-              <tr>
-                <td>TOTAL BUDGET:</td>
-                <td>$    12,355,176.29</td>
-              </tr>
+              <thead>
+                <tr>
+                  <th>ANNUAL BUDGET:   FISCAL YEAR 2016-2017</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$      2,337,279.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td>$      7,745,981.53</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td>$      1,010,770.50</td>
+                </tr>
+                <tr>
+                  <td>BUSINESS FUND</td>
+                  <td>$      1,261,145.26</td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td>$    12,355,176.29</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -1921,7 +1976,6 @@
       </section>
       <section>
         <num>6.3.9.020</num>
-        <heading/>
         <text>The Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2016-2017 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-002"/>
@@ -1929,7 +1983,6 @@
       </section>
       <section>
         <num>6.3.9.030</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intend of this resolution.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-002"/>
@@ -1991,30 +2044,32 @@
             <text>Increase budget by $79,000.00.</text>
           </para>
         </para>
-        <text>
+        <aftertext>
           <em>*Modification Approval Sheets (packets) for each program are attached.</em>
-        </text>
+        </aftertext>
         <para>
           <num>(c)</num>
           <text>Budget Modification No. 1 results in changes as follows:</text>
           <text>
             <table>
-              <tr>
-                <td>Increase to the Special Revenue Fund (SRF):</td>
-                <td>$459,717.00</td>
-              </tr>
-              <tr>
-                <td>Increase to the General Fund (GF):</td>
-                <td>
-                  <u>$  79,000.00</u>
-                </td>
-              </tr>
-              <tr>
-                <td>Total Increase:</td>
-                <td>
-                  <u>$538,717.00</u>
-                </td>
-              </tr>
+              <tbody>
+                <tr>
+                  <td>Increase to the Special Revenue Fund (SRF):</td>
+                  <td>$459,717.00</td>
+                </tr>
+                <tr>
+                  <td>Increase to the General Fund (GF):</td>
+                  <td>
+                    <u>$  79,000.00</u>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Total Increase:</td>
+                  <td>
+                    <u>$538,717.00</u>
+                  </td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -2034,8 +2089,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-011"/>
       <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-011" eff="2017-05-25" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.3.10.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -2147,7 +2202,7 @@
       </section>
       <section>
         <num>6.3.10.030</num>
-        <text>The Pueblo de San Ildefonso Council hereby approves and 			adopts this resolution in accordance with the requirements of the Agreement, 			according to published Council procedures, and authorizes and directs the 				Governor, or his designee, to take such actions as deemed necessary to carry out 			the intent of this resolution.</text>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-011"/>
           <annotation app="2017-05-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-011" eff="2017-05-25" path="" type="History"/>
@@ -2158,7 +2213,7 @@
         <heading>NEW FUNDING COUNCIL ADJUSTMENT 3 (NF-3) TO THE FY 2016-2017 ANNUAL BUDGET</heading>
         <para>
           <num>(a)</num>
-          <text>The Council hereby approves the New Funding Council Adjustment 3 (NF-3) and adjusts           the Annual Budget for Fiscal Year 2016-2017 by addition of the following:</text>
+          <text>The Council hereby approves the New Funding Council Adjustment 3 (NF-3) and adjusts the Annual Budget for Fiscal Year 2016-2017 by addition of the following:</text>
           <text>
             <table>
               <tr>
@@ -2225,8 +2280,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-015"/>
       <annotation app="2017-06-09" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-015" eff="2017-06-09" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.3.11.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -2300,8 +2355,8 @@
         </annotations>
       </section>
       <section>
-        <heading>Findings</heading>
         <num>6.3.11.020</num>
+        <heading>Findings</heading>
         <text>that the Council hereby:</text>
         <para>
           <num>(a)</num>
@@ -2378,8 +2433,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-016"/>
       <annotation app="2017-06-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-016" eff="2017-06-23" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.3.12.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -2496,7 +2551,7 @@
         <heading>AUTHORIZATION FOR FISCAL YEAR 2016-2017 BUDGET MODIFICATION NO. 2</heading>
         <para>
           <num>(a)</num>
-          <text>The current FY 2016-2017 Annual Budget, prior to this enactment, is                         as follows:</text>
+          <text>The current FY 2016-2017 Annual Budget, prior to this enactment, is as follows:</text>
           <text>
             <table>
               <tr>
@@ -2672,8 +2727,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-026"/>
       <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-026" eff="2017-09-07" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.3.13.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -2767,7 +2822,7 @@
       </section>
       <section>
         <num>6.3.13.020</num>
-        <text>The Council hereby approves and authorizes the 		"New Funding Council Adjustment 1 (NF-1) to the FY 2017-2018 Annual Budget" attached hereto and such adjustments shall be effective immediately upon enactment.</text>
+        <text>The Council hereby approves and authorizes the "New Funding Council Adjustment 1 (NF-1) to the FY 2017-2018 Annual Budget" attached hereto and such adjustments shall be effective immediately upon enactment.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-026"/>
           <annotation app="2017-09-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-026" eff="2017-09-07" path="" type="History"/>
@@ -2783,11 +2838,10 @@
       </section>
       <section>
         <num>6.3.13.040</num>
-        <text>PUEBLO DE SAN ILDEFONSO</text>
         <heading>NEW FUNDING COUNCIL ADJUSTMENT 1 (NF-1) TO THE FY 2017-2018 ANNUAL BUDGET</heading>
         <para>
           <num>(a)</num>
-          <text>The Council hereby approves the New Funding Council Adjustment 1 (NF-1) and adjusts           the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
+          <text>The Council hereby approves the New Funding Council Adjustment 1 (NF-1) and adjusts the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
           <text>
             <table>
               <tr>
@@ -2848,8 +2902,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-043"/>
       <annotation app="2017-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-043" eff="2017-12-22" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.3.14.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -2973,7 +3027,7 @@
       </section>
       <section>
         <num>6.3.14.030</num>
-        <text>The Pueblo de San Ildefonso Council hereby approves and          adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-043"/>
           <annotation app="2017-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-043" eff="2017-12-22" path="" type="History"/>
@@ -2981,14 +3035,10 @@
       </section>
       <section>
         <num>6.3.14.040</num>
-        <text>PUEBLO DE SAN ILDEFONSO</text>
         <heading>NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</heading>
-        <text class="center">
-          <strong>NEW FUNDING COUNCIL ADJUSTMENT 2 (NF-2) TO THE FY 2017-2018 ANNUAL BUDGET</strong>
-        </text>
         <para>
           <num>(a)</num>
-          <text>The Council hereby approves the "New Funding Council Adjustment 2 (NF-2)" and adjusts           the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
+          <text>The Council hereby approves the "New Funding Council Adjustment 2 (NF-2)" and adjusts the Annual Budget for Fiscal Year 2017-2018 by addition of the following:</text>
           <text>
             <table>
               <tr>
@@ -3060,8 +3110,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-001"/>
       <annotation app="2018-01-12" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-001" eff="2018-01-12" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.3.15.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -3173,7 +3223,7 @@
         </text>
         <para>
           <num>(a)</num>
-          <text>The current FY 2017-2018 Annual Budget, prior to this enactment, is                         as follows:</text>
+          <text>The current FY 2017-2018 Annual Budget, prior to this enactment, is as follows:</text>
           <text>
             <table>
               <tr>
@@ -3259,8 +3309,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-012"/>
       <annotation app="2018-06-18" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-012" eff="2018-06-18" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.3.16.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -3334,9 +3384,8 @@
         </annotations>
       </section>
       <section>
-        <conjunction>NOW, THEREFORE, BE IT RESOLVED</conjunction>
         <num>6.3.16.020</num>
-        <text>that the Council hereby:</text>
+        <text>The Council hereby:</text>
         <para>
           <num>(a)</num>
           <text>Approves and enacts the attached FY 2018-2019 Annual Budget in the total amount of $13,260.173.01 effective July 1, 2018 to June 30, 2019; and</text>
@@ -3412,8 +3461,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-013"/>
       <annotation app="2018-06-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-013" eff="2018-06-27" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.3.17.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -3522,7 +3571,7 @@
         <heading>AUTHORIZATION FOR FISCAL YEAR 2017-2018 BUDGET MODIFICATION NO. 2</heading>
         <para>
           <num>(a)</num>
-          <text>The current FY 2017-2018 Annual Budget, prior to this enactment, is                         as follows:</text>
+          <text>The current FY 2017-2018 Annual Budget, prior to this enactment, is as follows:</text>
           <text>
             <table>
               <tr>
@@ -3609,8 +3658,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-017"/>
       <annotation app="2019-06-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-017" eff="2019-06-21" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.3.18.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
@@ -3719,7 +3768,7 @@
         <heading>AUTHORIZATION FOR FISCAL YEAR 2018-2019 BUDGET MODIFICATION NO. 1</heading>
         <para>
           <num>(a)</num>
-          <text>The current FY 2018-2019 Annual Budget, prior to this enactment, is                         as follows:</text>
+          <text>The current FY 2018-2019 Annual Budget, prior to this enactment, is as follows:</text>
           <text>
             <table>
               <tr>
@@ -3952,9 +4001,9 @@
           <num>(e)</num>
           <text>By the terms of the previously authorized grant from which the funding must be spent.</text>
         </para>
-        <text>
+        <aftertext>
           <s>(c)	The Council shall authorize department or program activities for which funds can be spent.  An authorization can be general and not specify each item within the budget, provided that such budget items support the authorized Department or program goals and activities.  Council approval of a grant or contract authorizes the types of expenditures for which funds can be spent.  An item can be included in the annual budget if there is such an authorization.</s>
-        </text>
+        </aftertext>
         <para>
           <num>(f)</num>
           <text>The Annual Budget shall include an appropriation of funds for each branch of government as follows:</text>
@@ -4347,7 +4396,6 @@
       </section>
       <section>
         <num>6.4.3.020</num>
-        <heading/>
         <text>The Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2015-16 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
         <text>[NEED ATTACHMENT]</text>
         <annotations>
@@ -4412,7 +4460,6 @@
       </section>
       <section>
         <num>6.4.4.020</num>
-        <heading/>
         <text>The Council hereby approves and authorizes the attached Budget Modification No. 2 to the FY 2015-16 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
         <para>
           <num>(a)</num>
@@ -4469,7 +4516,7 @@
           <heading>BIA – Indian Child Welfare Act (ICWA) (20-xxxx-200-221-17):</heading>
           <text>Increase budget by $11,857.00 due to funding agency increase.</text>
         </para>
-        <text>Modification Approval Sheets (packets) for each program are attached.</text>
+        <aftertext>Modification Approval Sheets (packets) for each program are attached.</aftertext>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-010"/>
         </annotations>
@@ -4537,7 +4584,6 @@
       </section>
       <section>
         <num>6.5.1.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council authorizes and directs the Governor to sign on behalf of the Pueblo any 638 contract documents needed to fund the <em>Aamodt</em> settlement implementation activities, and to budget those funds for the Pueblo's <em>Aamodt</em> settlement implementation activities.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R12-041"/>
@@ -4573,7 +4619,6 @@
       </section>
       <section>
         <num>6.5.2.020</num>
-        <heading/>
         <text>Be it resolved that:</text>
         <para>
           <num>(a)</num>
@@ -4613,7 +4658,6 @@
       </section>
       <section>
         <num>6.5.3.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby authorizes the Pueblo de Cochiti to apply for the Tribal Management Grant on behalf of the Santa Fe Service Unit Health Board for the purpose of conducting a feasibility study.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-024"/>
@@ -4653,7 +4697,6 @@
       </section>
       <section>
         <num>6.5.4.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby approves submittal of the Application for Contract for the Johnson O'Malley program for a three-year term, 2013-2016.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-029"/>
@@ -4661,7 +4704,6 @@
       </section>
       <section>
         <num>6.5.4.030</num>
-        <heading/>
         <text>The Pueblo wishes to enter into a P.L. 93-638 Contract for these funds.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-029"/>
@@ -4691,7 +4733,6 @@
       </section>
       <section>
         <num>6.5.5.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby approves and authorizes the Governor to submit an application package to the Bureau of Indian Education to request 2014-2016 funds for the Early Childhood Program (Part B and C).</text>
         <annotations/>
       </section>
@@ -4733,7 +4774,6 @@
       </section>
       <section>
         <num>6.5.6.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council recognizes that the ENIPC, Inc. Senior Citizens Program requests support and approval for submission of the Title VI Federal Application for the continuation of funding and services delivered to the Pueblos of Picuris, Pojoaque, Nambe and San Ildefonso.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-047"/>
@@ -4741,7 +4781,6 @@
       </section>
       <section>
         <num>6.5.6.030</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso supports and approves the submission of the Title VI Federal Application for continued funding for the ENICP, Inc. Senior Citizen Program.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-047"/>
@@ -4801,7 +4840,6 @@
       </section>
       <section>
         <num>6.5.7.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council authorizes and directs the Governor to sign on behalf of the Pueblo any 638 contract documents needed to fund the <em>Aamodt</em> settlement implementation activities, and to budget those funds for the Pueblo's <em>Aamodt</em> settlement implementation activities.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-007"/>
@@ -4841,7 +4879,6 @@
       </section>
       <section>
         <num>6.5.8.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Tribal Council authorizes and directs the Governor to enter into and execute a contract with the Bureau of Reclamation pursuant to Public Law 93-638, as amended, in order to work cooperatively with the Bureau of Reclamation on irrigation infrastructure and other water resource improvement project studies at the Pueblo and to obtain any available funding for his work from the Bureau of Reclamation through the Public Law 93-638 (as amended) contract.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-016"/>
@@ -4881,7 +4918,6 @@
       </section>
       <section>
         <num>6.5.9.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby approves submittal of the Application for Contract for the Johnson O'Malley program for a three-year term, 2016-2019.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-017"/>
@@ -4889,7 +4925,6 @@
       </section>
       <section>
         <num>6.5.9.030</num>
-        <heading/>
         <text>The Pueblo wishes to enter into a P.L. 93-638 Contract for these funds.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-017"/>
@@ -5176,7 +5211,6 @@
       </section>
       <section>
         <num>6.5.12.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby approves the FY2016 Control Schedule, Proposed Statement of Work and Budgets</text>
         <text>[ATTACHED];</text>
         <annotations>
@@ -5185,7 +5219,6 @@
       </section>
       <section>
         <num>6.5.12.030</num>
-        <heading/>
         <text>The Pueblo requests to enter into a new Pub. L. 93-638</text>
         <text>contract with the funds;</text>
         <annotations>
@@ -5194,7 +5227,6 @@
       </section>
       <section>
         <num>6.5.12.040</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-014"/>
@@ -5208,8 +5240,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-024"/>
       <annotation app="2017-09-01" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-024" eff="2017-09-01" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.13.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -5311,8 +5343,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-029"/>
       <annotation app="2017-09-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-029" eff="2017-09-21" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.14.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
@@ -5339,13 +5371,10 @@
         </annotations>
       </section>
       <section>
-        <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-        <text/>
         <num>6.5.14.020</num>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso Council hereby approves submittal of the Application for Contract for the Johnson O'Malley program for a three-year term, 2017-2019.</text>
-          <codify:find-replace position="last" count="1" path="6.5.14.020|(a)" find="; and" replace="." history="false" codified:doc="Pueblo de San Ildefonso Code" codified:path="6.5.14.020|(a)"/>
         </para>
         <para>
           <num>(b)</num>
@@ -5358,7 +5387,6 @@
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-029"/>
           <annotation app="2017-09-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-029" eff="2017-09-21" path="" type="History"/>
-          <annotation app="2017-09-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-029" eff="2017-09-21" path="" type="History" display="false"/>
         </annotations>
       </section>
     </container>
@@ -5369,8 +5397,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-030"/>
       <annotation app="2017-10-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-030" eff="2017-10-02" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.15.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
@@ -5401,8 +5429,6 @@
         </annotations>
       </section>
       <section>
-        <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-        <text/>
         <num>6.5.15.020</num>
         <para>
           <num>(a)</num>
@@ -5429,8 +5455,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-044"/>
       <annotation app="2017-12-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-044" eff="2017-12-22" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.16.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>the Pueblo, by and through United States Public Laws 105-17 and 108-446, has contracted and administered key functions to the Pueblo through the Bureau of Indian Education to provide Early Childhood Education through the Individuals with Disabilities Education Act; and,</text>
@@ -5479,8 +5505,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-007"/>
       <annotation app="2018-05-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-007" eff="2018-05-23" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.17.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -5590,8 +5616,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-015"/>
       <annotation app="2018-08-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-015" eff="2018-08-07" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.18.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -5669,8 +5695,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-021"/>
       <annotation app="2018-09-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-021" eff="2018-09-20" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.19.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -5825,8 +5851,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-002"/>
       <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-002" eff="2019-01-30" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.21.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -5884,8 +5910,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-003"/>
       <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-003" eff="2019-01-30" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.22.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -5943,8 +5969,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-004"/>
       <annotation app="2019-01-30" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-004" eff="2019-01-30" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.23.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -6002,8 +6028,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-012"/>
       <annotation app="2019-06-21" doc="Pueblo de San Ildefonso Council Res. No. SI-R19-012" eff="2019-06-21" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.5.24.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -6203,7 +6229,7 @@
     <container>
       <prefix>Part</prefix>
       <num>6.6.1</num>
-      <heading>Approving a Long-Term Investment Plan for the Pueblo de 					San Ildefonso Claim Settlement Act of 2005 Trust Account</heading>
+      <heading>Approving a Long-Term Investment Plan for the Pueblo de San Ildefonso Claim Settlement Act of 2005 Trust Account</heading>
       <annotations>
         <annotation type="Editor's Notes">This law was originally enacted pursuant to Council Resolution No. SI-R13-020, dated May 13, 2013.</annotation>
       </annotations>
@@ -6249,7 +6275,6 @@
       </section>
       <section>
         <num>6.6.1.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Tribal Council hereby grants approval to the Office of the Special Trustee for American Indians to establish a long-term objective for the remaining funds in the Pueblo de San Ildefonso Claims Settlement Act of 2005 trust account.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-020"/>
@@ -6285,7 +6310,6 @@
       </section>
       <section>
         <num>6.6.2.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Tribal Council hereby approves and authorizes the use of Charles Schwab as the brokerage clearing firm on behalf of the Pueblo.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-024"/>
@@ -6293,7 +6317,6 @@
       </section>
       <section>
         <num>6.6.2.030</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Tribal Council hereby approves grants a limited waiver of the Pueblo's sovereign immunity pursuant to the section SOVEREIGN IMMUNITY within the Pueblo's governing Agreement for the sole purpose of arbitration of any claims brought under and in accordance with the terms of the brokerage agreement.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-024"/>
@@ -6378,7 +6401,7 @@
       <section>
         <num>6.6.3.050</num>
         <heading>Statement of Investment Policy Objectives and Guidelines – Asset Appreciation (Long-Term) Investment Portfolio.</heading>
-        <include proof="true">
+        <include>
           <text>SCOPE OF THIS INVESTMENT POLICY</text>
           <text>This statement of investment policy ("Investment Policy" or "Statement"), reflects the investment policy, objectives, and constraints of the Pueblo de San Ildefonso ("Pueblo") Investment Account(s).</text>
           <text>PURPOSE OF THIS INVESTMENT POLICY STATEMENT</text>
@@ -6534,7 +6557,7 @@
           </para>
           <para>
             <num>2.</num>
-            <text><u>Risk Aversion</u> – Understanding that risk is present in all types of securities and investment styles, the Council recognizes that some risk is necessary to produce long-term investment results that are sufficient to meet the Investment Account(s)'s objectives.  However, the investment managers are to make reasonable efforts to control risk, and will be evaluated regularly to ensure that the risk assumed is commensurate with the given investment style                  and objectives.</text>
+            <text><u>Risk Aversion</u> – Understanding that risk is present in all types of securities and investment styles, the Council recognizes that some risk is necessary to produce long-term investment results that are sufficient to meet the Investment Account(s)'s objectives.  However, the investment managers are to make reasonable efforts to control risk, and will be evaluated regularly to ensure that the risk assumed is commensurate with the given investment style and objectives.</text>
           </para>
           <para>
             <num>3.</num>
@@ -6641,24 +6664,28 @@
             <text>Aggregate Investment Account(s) Asset Allocation Guidelines (at market value)</text>
             <text>
               <table>
-                <tr>
-                  <th>Asset Class</th>
-                  <th>Minimum</th>
-                  <th>Maximum</th>
-                  <th>Preferred</th>
-                </tr>
-                <tr>
-                  <td>Equities</td>
-                  <td>85%</td>
-                  <td>100%</td>
-                  <td>99%</td>
-                </tr>
-                <tr>
-                  <td>Cash and Equivalents</td>
-                  <td>0%</td>
-                  <td>15%</td>
-                  <td>1%</td>
-                </tr>
+                <thead>
+                  <tr>
+                    <th>Asset Class</th>
+                    <th>Minimum</th>
+                    <th>Maximum</th>
+                    <th>Preferred</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Equities</td>
+                    <td>85%</td>
+                    <td>100%</td>
+                    <td>99%</td>
+                  </tr>
+                  <tr>
+                    <td>Cash and Equivalents</td>
+                    <td>0%</td>
+                    <td>15%</td>
+                    <td>1%</td>
+                  </tr>
+                </tbody>
               </table>
             </text>
           </para>
@@ -6787,7 +6814,7 @@
       <section>
         <num>6.6.4.050</num>
         <heading>Statement of Investment Policy Objectives and Guidelines – High Income (Short-Term) Investment Portfolio.</heading>
-        <include proof="true">
+        <include>
           <text>SCOPE OF THIS INVESTMENT POLICY</text>
           <text>This statement of investment policy ("Investment Policy" or "Statement"), reflects the investment policy, objectives, and constraints of the Pueblo de San Ildefonso ("Pueblo") Investment Account(s).</text>
           <text>PURPOSE OF THIS INVESTMENT POLICY STATEMENT</text>
@@ -7050,24 +7077,28 @@
             <text>Aggregate Investment Account(s) Asset Allocation Guidelines (at market value)</text>
             <text>
               <table>
-                <tr>
-                  <th>Asset Class</th>
-                  <th>Minimum</th>
-                  <th>Maximum</th>
-                  <th>Preferred</th>
-                </tr>
-                <tr>
-                  <td>Equities</td>
-                  <td>85%</td>
-                  <td>100%</td>
-                  <td>99%</td>
-                </tr>
-                <tr>
-                  <td>Cash and Equivalents</td>
-                  <td>0%</td>
-                  <td>15%</td>
-                  <td>1%</td>
-                </tr>
+                <thead>
+                  <tr>
+                    <th>Asset Class</th>
+                    <th>Minimum</th>
+                    <th>Maximum</th>
+                    <th>Preferred</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Equities</td>
+                    <td>85%</td>
+                    <td>100%</td>
+                    <td>99%</td>
+                  </tr>
+                  <tr>
+                    <td>Cash and Equivalents</td>
+                    <td>0%</td>
+                    <td>15%</td>
+                    <td>1%</td>
+                  </tr>
+                </tbody>
               </table>
             </text>
           </para>
@@ -7325,8 +7356,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031"/>
       <annotation app="2017-10-06" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-031" eff="2017-10-06" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.6.7.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe, recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
@@ -7357,8 +7388,6 @@
         </annotations>
       </section>
       <section>
-        <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-        <text/>
         <num>6.6.7.020</num>
         <para>
           <num>(a)</num>
@@ -7532,8 +7561,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-039"/>
       <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-039" eff="2017-12-29" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>6.6.9.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>

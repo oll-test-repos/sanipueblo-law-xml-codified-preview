@@ -388,8 +388,8 @@
             <num>(5)</num>
             <text>To knowingly allow an animal to stay on any premises occupied by the Owner.</text>
           </para>
+          <aftertext>If there is evidence that a person feeds an animal for five (5) or more consecutive days, it will be assumed that the animal is owned by the person unless the person proves otherwise or reports the animal to the Animal Control Officer as a stray.</aftertext>
         </para>
-        <text>If there is evidence that a person feeds an animal for five (5) or more consecutive days, it will be assumed that the animal is owned by the person unless the person proves otherwise or reports the animal to the Animal Control Officer as a stray.</text>
         <para>
           <num>(g)</num>
           <text>"Owner" means any person who owns an animal.</text>
@@ -1284,7 +1284,7 @@
       <section>
         <num>19.3.1.020</num>
         <heading>Personnel Policy Manual</heading>
-        <include proof="true">
+        <include>
           <text>
             <center>Pueblo de San Ildefonso</center>
           </text>
@@ -1495,7 +1495,7 @@
           </para>
           <para>
             <num>c.</num>
-            <text>) The Tribal Council reserves the right to make the final decision or approve the final   decision on the hiring of high level management positions.</text>
+            <text>) The Tribal Council reserves the right to make the final decision or approve the final decision on the hiring of high level management positions.</text>
             <text>
               <strong>202. Job Vacancies and Employee Transfers</strong>
             </text>

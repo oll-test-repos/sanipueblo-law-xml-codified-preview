@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
   <prefix>Title</prefix>
   <num>17</num>
   <heading>BUSINESS</heading>
@@ -36,7 +36,6 @@
       </section>
       <section>
         <num>17.1.1.020</num>
-        <heading/>
         <text>Pueblo de San Ildefonso Tribal Council hereby enacts the attached law entitled "The Pueblo de San Ildefonso Business Corporation Code".</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-006"/>
@@ -252,14 +251,16 @@
         <text>Articles of incorporation and articles of amendment shall be filed with the Tribal Services Director. All documents shall be filed at the following address:</text>
         <text>
           <table>
-            <tr>
-              <td>Attn:</td>
-              <td>
-                <p>Tribal Services Director</p>
-                <p>02 Tunyo Po</p>
-                <p>Santa Fe, NM 97506</p>
-              </td>
-            </tr>
+            <tbody>
+              <tr>
+                <td>Attn:</td>
+                <td>
+                  <p>Tribal Services Director</p>
+                  <p>02 Tunyo Po</p>
+                  <p>Santa Fe, NM 97506</p>
+                </td>
+              </tr>
+            </tbody>
           </table>
         </text>
         <annotations/>
@@ -477,7 +478,7 @@
             <text>Issue a certificate of dissolution to which the Tribal Services Director shall affix the other duplicate original.</text>
           </para>
         </para>
-        <text>The certificate of dissolution, together with the duplicate originals of the articles of dissolution affixed thereto by the Tribal Services Director, shall be returned to the incorporators, or their agent.  Upon issuance of such certificate of dissolution by the Tribal Services Director, the existence of the corporation shall cease.</text>
+        <aftertext>The certificate of dissolution, together with the duplicate originals of the articles of dissolution affixed thereto by the Tribal Services Director, shall be returned to the incorporators, or their agent.  Upon issuance of such certificate of dissolution by the Tribal Services Director, the existence of the corporation shall cease.</aftertext>
         <annotations/>
       </section>
       <section>
@@ -756,7 +757,7 @@
             <text>any recovery against such corporation shall be limited to the assets of the corporation.</text>
           </para>
         </para>
-        <text>Any consent to suit may be limited to the court or courts in which suit may be brought, to the matters that may be made the subject of the suit and to the assets or revenues of the corporation against which any judgment may be executed.</text>
+        <aftertext>Any consent to suit may be limited to the court or courts in which suit may be brought, to the matters that may be made the subject of the suit and to the assets or revenues of the corporation against which any judgment may be executed.</aftertext>
         <annotations/>
       </section>
     </container>
@@ -959,7 +960,6 @@
       </section>
       <section>
         <num>17.2.2.020</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council hereby rescinds in its entirety the Tribal Council Resolution No. SI-R09-031 "Authorizing the San Ildefonso Pueblo Enterprise Corporation to Own and Operate the San Ildefonso Custodial Services, LLC," effectively immediately.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-034"/>
@@ -967,7 +967,6 @@
       </section>
       <section>
         <num>17.2.2.030</num>
-        <heading/>
         <text>The Pueblo de San Ildefonso Council, on behalf of the single member, the Pueblo de San Ildefonso, shall reassume any and all interests and all authorities of the San Ildefonso Custodial Services, LLC, previously assigned to SIPEC, and shall reassume all authorities as the Member's Representative under the Articles of Organization for the San Ildefonso Custodial Services, effectively immediately.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-034"/>
@@ -1009,25 +1008,21 @@
       </section>
       <section>
         <num>17.2.3.020</num>
-        <heading/>
         <text>Pueblo de San Ildefonso Tribal Council hereby petitions the Secretary to approve the Amended Federal Charter, or in such modified form as the Secretary may approve with the concurrence of the Pueblo.</text>
         <annotations/>
       </section>
       <section>
         <num>17.2.3.030</num>
-        <heading/>
         <text>Pueblo de San Ildefonso Tribal Council requests that the Secretary issue the Amended Federal Charter jointly to the 19 Pueblos at the earliest feasible date.</text>
         <annotations/>
       </section>
       <section>
         <num>17.2.3.040</num>
-        <heading/>
         <text>Pueblo de San Ildefonso Tribal Council authorizes the Governor of the Pueblo de San Ildefonso to work with the Pueblo Insurance Agency, Inc., and the other Pueblos to secure the timely issuance of the Amended Federal Charter.</text>
         <annotations/>
       </section>
       <section>
         <num>17.2.3.050</num>
-        <heading/>
         <text>That, as required by 25 U.S.C. § 477, the Amended Federal Charter requested in this resolution will not be effective until ratified by vote of the governing bodies of all the 19 Pueblos.</text>
         <annotations/>
       </section>
@@ -1069,7 +1064,6 @@
       </section>
       <section>
         <num>17.2.4.020</num>
-        <heading/>
         <text>The Tribal Council hereby ratifies the Amended Federal Charter.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-019"/>
@@ -1077,7 +1071,6 @@
       </section>
       <section>
         <num>17.2.4.030</num>
-        <heading/>
         <text>The Amended Federal Charter shall be effective upon the ratification by all the 19 Pueblos.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R15-019"/>
@@ -1129,7 +1122,6 @@
       </section>
       <section>
         <num>17.2.5.020</num>
-        <heading/>
         <text>The Council ratifies its actions on August  5, 2015, to:  (1) Approve a name change whereby San Ildefonso Custodial, LLC, is now known as San Ildefonso Services, LLC; and (2) Approve the "San Ildefonso  Services, LLC (aka San Ildefonso Custodial, LLC) Fourth Amended Operating Agreement."</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R13-034"/>
@@ -1177,9 +1169,8 @@
       </section>
       <section>
         <num>17.2.6.020</num>
-        <heading/>
         <text>The Member's Representatives hereby amend and replace Section 2.1 of the Fourth Amended Operating Agreement for San Ildefonso Services, LLC, as follows:</text>
-        <include proof="true">
+        <include>
           <para>
             <num>2.1</num>
             <heading>Management by Managers.</heading>
@@ -1206,7 +1197,6 @@
       </section>
       <section>
         <num>17.2.6.030</num>
-        <heading/>
         <text>That as a Manager, Martin Lovato shall provide a signed certification consistent with Section 9 of the Fourth Amended Operating Agreement stating that he has read the Fourth Amended Operating Agreement and agrees to be bound by its terms in discharging his duties as a Manager.</text>
         <annotations>
           <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-007"/>
@@ -1327,8 +1317,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028"/>
       <annotation app="2017-09-08" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-028" eff="2017-09-08" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>17.2.8.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo") is a sovereign and self-governing Tribe,  recognized as such by the United States of America, with the authority to govern its people, lands and other resources.</text>
@@ -1367,8 +1357,6 @@
         </annotations>
       </section>
       <section>
-        <conjunction>NOW THEREFORE BE IT RESOLVED THAT:</conjunction>
-        <text/>
         <num>17.2.8.020</num>
         <para>
           <num>(a)</num>
@@ -1405,8 +1393,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047"/>
       <annotation app="2017-12-29" doc="Pueblo de San Ildefonso Council Res. No. SI-R17-047" eff="2017-12-29" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>17.2.9.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -1448,8 +1436,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004"/>
       <annotation app="2018-04-02" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-004" eff="2018-04-02" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>17.2.10.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -1824,8 +1812,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017"/>
       <annotation app="2018-08-27" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-017" eff="2018-08-27" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>17.2.14.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -1883,8 +1871,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023"/>
       <annotation app="2018-10-22" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-023" eff="2018-10-22" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>17.2.15.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo recognizes the need to expand employment opportunities for tribal members in the energy, utility, and telecommunications industry.</text>
@@ -1950,8 +1938,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026"/>
       <annotation app="2018-10-20" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-026" eff="2018-10-20" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>17.2.16.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -2013,8 +2001,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029"/>
       <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-029" eff="2018-12-17" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>17.2.17.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
@@ -2060,8 +2048,8 @@
       <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031"/>
       <annotation app="2018-12-17" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-031" eff="2018-12-17" path="" type="History"/>
       <section>
-        <heading>Findings</heading>
         <num>17.2.18.010</num>
+        <heading>Findings</heading>
         <para>
           <num>(a)</num>
           <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America.</text>
