@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache">
   <heading>Pueblo de San Ildefonso Law Library</heading>
   <meta>
     <description/>
@@ -12,13 +12,13 @@
       <html>https://law.sanipueblo.org</html>
       <static-assets>https://github.com/oll-test-repos/sanipueblo-law-static-assets</static-assets>
     </canonical-urls>
-    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <build xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="995af2f4ef69dc0b1310bed949f6707a2b478222"/>
+        <repository name="sanipueblo/law-xml" commit="e048e2c6c42fa039f25275147a029509707d442b"/>
       </repositories>
-      <platform version="2020.2.0.dev9803" reproducible="true"/>
-      <build-date>2020-06-30</build-date>
-      <codified-date>2020-05-13</codified-date>
+      <platform version="2.0.0.dev10526" reproducible="true"/>
+      <build-date>2020-08-19</build-date>
+      <codified-date>2020-07-29</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
