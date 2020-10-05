@@ -14,10 +14,10 @@
     </canonical-urls>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="a0d5c764ba98a7bc916aba77f656eeda1b2ab70c"/>
+        <repository name="sanipueblo/law-xml" commit="3632ae00d978e56687c91a396603650f3ae6b449"/>
       </repositories>
-      <platform version="2.0.0.dev10663" reproducible="true"/>
-      <build-date>2020-08-26</build-date>
+      <platform version="2.0.0.dev11095" reproducible="true"/>
+      <build-date>2020-10-05</build-date>
       <codified-date>2020-07-29</codified-date>
     </build>
   </meta>
