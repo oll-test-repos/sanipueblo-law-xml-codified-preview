@@ -12,13 +12,13 @@
       <html>https://law.sanipueblo.org</html>
       <static-assets>https://github.com/oll-test-repos/sanipueblo-law-static-assets</static-assets>
     </canonical-urls>
-    <history-start>2017-03-25</history-start>
+    <history-start>2017-04-19</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="ab586aa36f5c88b99cf4db83df7e0bbf2185d05e"/>
+        <repository name="sanipueblo/law-xml" commit="306a8c744f9a9fee31eabef231d33b5c5193b442"/>
       </repositories>
-      <platform version="2.0.0.dev11294" reproducible="true"/>
-      <build-date>2020-10-20</build-date>
+      <platform version="2.0.0.dev11469" reproducible="true"/>
+      <build-date>2020-10-29</build-date>
       <codified-date>2020-07-29</codified-date>
     </build>
   </meta>
