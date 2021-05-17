@@ -3,8 +3,14 @@
   <heading>Pueblo de San Ildefonso Code</heading>
   <meta>
     <effective>0001-01-02</effective>
-    <recency through="2020-07-29">
-      <doc id="Pueblo de San Ildefonso Council Res. No. SI-R20-015" type="resolution"/>
+    <print>
+      <volumes>
+        <volume start="1"/>
+        <volume start="12"/>
+      </volumes>
+    </print>
+    <recency through="2021-03-26">
+      <doc id="Pueblo de San Ildefonso Council Res. No. SI-R21-001" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
@@ -32,4 +38,6 @@
   <xi:include href="./23.xml"/>
   <xi:include href="./24.xml"/>
   <xi:include href="./25.xml"/>
+  <annotation app="2020-10-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-021" eff="2020-10-28" path="attachments|law" type="History"/>
+  <annotation app="2020-11-25" doc="Pueblo de San Ildefonso Council Res. No. SI-R20-024" eff="2020-11-25" path="attachments|law|1.4" type="History"/>
 </document>
