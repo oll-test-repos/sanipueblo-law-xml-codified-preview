@@ -15,10 +15,10 @@
     <history-start>2017-04-19</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="2422dc0e887c262343cd1fc674ec26b221ccfb4a"/>
+        <repository name="sanipueblo/law-xml" commit="0d7dbc5779c2bf9e919e6e454d17cbe81c6f9d9e"/>
       </repositories>
-      <platform version="2.3.0.dev13631" reproducible="false"/>
-      <build-date>2021-08-04</build-date>
+      <platform version="2.3.0.dev13678" reproducible="false"/>
+      <build-date>2021-08-10</build-date>
       <codified-date>2021-06-30</codified-date>
     </build>
   </meta>
