@@ -13,13 +13,14 @@
       <static-assets>https://github.com/sanipueblo/law-static-assets</static-assets>
     </canonical-urls>
     <history-start>2017-04-19</history-start>
+    <law-url>https://github.com/oll-test-repos/sanipueblo-law</law-url>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="sanipueblo/law-xml" commit="0d7dbc5779c2bf9e919e6e454d17cbe81c6f9d9e"/>
+        <repository name="sanipueblo/law-xml" commit="34cd89e9113c707b5a30aa9026bc17fc7e9f0b4c"/>
       </repositories>
-      <platform version="2.3.0.dev13678" reproducible="false"/>
-      <build-date>2021-08-10</build-date>
-      <codified-date>2021-06-30</codified-date>
+      <platform version="2.6.0.dev14988" reproducible="false"/>
+      <build-date>2021-12-22</build-date>
+      <codified-date>2021-08-30</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
