@@ -13,18 +13,31 @@
       <heading>Zoning and Planning, Building Permits, and Miscellaneous</heading>
       <section>
         <num>24.1.1.010</num>
-        <heading>Residency Requirements</heading>
+        <heading>Restrictions for Land Assignments, Homes, and Buildings</heading>
         <para>
           <num>(a)</num>
-          <heading>APPROVAL REQUIRED FOR USE OF PROPERTY BY NON-RESIDENTS.</heading>
-          <text>All members of the Pueblo of San Ildefonso shall first obtain approval from the Governor and Tribal Council before renting, leasing or lending building, houses, or land, under their ownership or control, to non-members of the Pueblo for temporary or permanent use within the jurisdiction of the Pueblo.</text>
+          <heading>OWNERSHIP RIGHTS LIMITED TO TRIBAL MEMBERS.</heading>
+          <text>Ownership of the Pueblo's lands is vested in the Pueblo de San Ildefonso and held in common for the benefit of its tribal members.</text>
+          <text>Any assignment of the Pueblo's lands including individual land assignments and rights or property interests to homes or structures on land assignments are restricted to San Ildefonso Pueblo tribal members.</text>
         </para>
         <para>
           <num>(b)</num>
-          <heading>APPROVAL REQUIRED FOR RESIDENCE BY NON-MEMBER SPOUSES.</heading>
-          <text>All non members that plan to reside in the Pueblo or on Pueblo land with their member spouse or any other non-member must first report to the Governor and Tribal Council before taking up residence, and sign an agreement that they will respect and will abide by the laws, customs, rules and regulations of the Pueblo Council or any of its agencies or commissions.</text>
+          <heading>TRANSFER OF LAND ASSIGNMENT, INTERESTS IN LAND ASSIGNMENTS, HOMES OR BUILDINGS TO NON-MEMBERS PROHIBITED.</heading>
+          <text>No ownership or property interest in a land assignment, home or buildings or any other real property interest within the Pueblo's lands held by a Pueblo member shall be sold, deeded or transferred to a non-member of the Pueblo.</text>
         </para>
-        <annotations/>
+        <para>
+          <num>(c)</num>
+          <heading>APPROVAL REQUIRED FOR USE OF PROPERTY BY NON-MEMBERS.</heading>
+          <text>Members of the Pueblo of San Ildefonso shall obtain prior written approval from the Governor before renting, leasing or lending any buildings, houses, land assignments, or any interest in a land assignment, under their ownership or control and within the jurisdiction of the Pueblo to a non-member of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>APPROVAL REQUIRED FOR RESIDENCE BY NON-MEMBER SPOUSES OR OTHERS.</heading>
+          <text>All non-members who plan to reside in the Pueblo or on Pueblo land with their member spouse or any other San Ildefonso tribal member must first report to the Governor before taking up residence, and must sign an agreement to respect and abide by all laws, customs, rules and regulations of the Pueblo including consenting to the jurisdiction of the Pueblo's Courts; provided, that non-member residents of the Pueblo who have continuously resided for at least five (5) years with a member of the Pueblo immediately prior to December 21, 2011, shall not be required to sign an agreement as a condition to continued residency so long as they are in compliance with the laws, customs, rules, and regulations of the Pueblo. A widowed non-member spouse of a member of the Pueblo who wishes to remain a resident of the Pueblo must request permission from the Governor to continue their residency. The Governor shall be authorized to issue regulations to govern the actions and conduct of non-members who reside on the Pueblo including the terms of written agreements setting conditions for non-members to maintain residency, which may include a code of conduct that conforms to the laws, customs, and traditions of the Pueblo.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-05-11" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-004" eff="2022-05-11" path="attachments|law|1.4|(a)" type="History"/>
+        </annotations>
       </section>
       <section>
         <num>24.1.1.020</num>
@@ -826,6 +839,99 @@
         <annotations>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-009" eff="2018-06-07" path="" type="History"/>
           <annotation app="2018-06-07" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-009" eff="2018-06-07" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>24.2.9</num>
+      <heading>Act Authorizing Right-Of-Way for Gas Line to Odo Po Properties</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+      <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+      <section>
+        <num>24.2.9.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "Act Authorizing Right-of-Way for Gas Line to Odo Po Properties" (the "Act").</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="attachments|law|1.1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.2.9.020</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize a right-of-way for a natural gas line to serve the Pueblo's Odo Po Properties.</text>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="attachments|law|1.2" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.2.9.030</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso ("Pueblo") possesses inherent sovereign powers over the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Pueblo owns three (3) properties and associated buildings known as the Odo Po Properties located within the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo desires to run a natural gas line to serve these properties as shown on Exhibit A.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Bureau of Indian Affairs Northern Pueblos Agency informed the Pueblo that although the Odo Po Properties are owned by the Pueblo, a formal right-of-way must be granted to New Mexico Gas Company for the gas line rather than a service line agreement.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Council has determined that it is in the best interest of the Pueblo to authorize a right-of way for a natural gas line to the Odo Po Properties.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="attachments|law|1.3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.2.9.040</num>
+        <heading>Authorizations</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Council hereby authorizes a right-of-way to be granted to the New Mexico Gas Company to install natural gas lines to the Odo Po Properties subject to the following terms:</text>
+          <para>
+            <num>(1)</num>
+            <text>The right-of-way shall be 20 feet wide for approximately 1350 feet of gas line consisting of approximately 1.61 acre of land. The final location and acreage shall be determined by the survey which shall be completed and incorporated as part of the final right-of-way grant.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The term of the right-of-way shall be for twenty-five (25) years, renewable for a second term of twenty-five (25) years, provided that the right-of-way is used for the specified purpose of providing natural gas to the Odo Po Properties.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>There shall be no annual right-of-way compensation required from the New Mexico Gas Company (the "Grantee") since the natural gas line has been requested by the Pueblo and will serve properties owned by the Pueblo.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The right-of-way may be cancelled by the Pueblo and the Grantee, under any negotiated remedies identified in 25 CFR §169.403 and/or in whole or in part by the Pueblo under 25 CFR §169.404, or for cause upon thirty (30) days written notice, and failure of the Grantee to correct the basis for cancellation within the notice period as stated in 25 CFR §169.405.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Pueblo reserves its jurisdiction over the land subject to the right-of-way, and any person or activity within the right-of-way.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Council hereby authorizes the Governor, and his designee(s) to execute all actions and all documents necessary to initiate the intent of this Act.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="" type="History"/>
+          <annotation app="2022-11-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-021" eff="2022-11-14" path="attachments|law|1.4" type="History"/>
         </annotations>
       </section>
     </container>
@@ -2732,37 +2838,38 @@
     <container>
       <prefix>Part</prefix>
       <num>24.9.1</num>
-      <heading>Abandoned Vehicle Act of 2018</heading>
+      <heading>First Amendment to the Abandoned Vehicle Act of 2018<annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law" type="History"/></heading>
       <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
       <section>
         <num>24.9.1.010</num>
         <heading>Short Title</heading>
-        <text>This enactment shall be known as the Abandoned Vehicle Act of 2018.</text>
+        <text>This enactment shall be known as the "FIRST AMENDMENT TO THE ABANDONED VEHICLE ACT OF 2018" (the "Act").</text>
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.1" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.1" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.9.1.020</num>
         <heading>Purpose</heading>
-        <text>The purpose of this Act is to promote a safe, clean, and healthy environment by removing abandoned vehicles from Pueblo Lands.</text>
+        <text>The Purpose of this Act is to promote a safe, clean, and healthy environment by removing abandoned vehicles from Pueblo Lands.</text>
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.2" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.2" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.9.1.030</num>
         <heading>Findings</heading>
-        <text>The Council hereby finds and declares that:</text>
         <para>
           <num>(a)</num>
-          <text>The Pueblo has experienced an increasing number of abandoned cars and other vehicles on  Pueblo Lands; and</text>
+          <text>The Pueblo has experienced an increasing number of abandoned cars and other vehicles on Pueblo lands.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Abandoned vehicles create an unsafe environment by fostering rodent infestation, chemical contamination, as well as creating a safety hazard for children and an eyesore within the community; and</text>
+          <text>Abandoned vehicles create an unsafe environment by fostering rodent infestation, chemical contamination, as well as creating a safety hazard for children and an eyesore within the community.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -2771,14 +2878,28 @@
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.3" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.3" type="History"/>
         </annotations>
       </section>
       <section>
         <num>24.9.1.040</num>
+        <heading>Abandoned Vehicle Act</heading>
+        <para>
+          <num>(a)</num>
+          <text>Title 25 - TRAFFIC, of the Pueblo Code, shall be amended by adding the following new provisions:</text>
+        </para>
+        <annotations>
+          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
+          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.5" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.4" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.9.1.050</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
-          <text>"Abandoned Vehicle" means any Vehicle that is inoperable, or has not been driven, or cannot be reasonably driven, for more than sixty (60) days and is located on any property within Pueblo Lands.</text>
+          <text>"Abandoned Vehicle" means a Vehicle that has one or more of the following Characteristics for more than sixty (60) days: (1) wrecked or missing exterior body parts; (2) missing an engine, transmission, or other major parts; (3) incapable of being operated under its own power; (4) is left on a jack or other support for long periods of time; (5) is being used for storage of items; or (6) is stored on an unpaved surface with overgrowth underneath or tires buried in the ground.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2786,15 +2907,15 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>"Antique Vehicle" shall mean an inoperable Vehicle that is more than twenty-five years old.</text>
+          <text>"Antique Vehicle" shall mean an in operable Vehicle that is more than twenty-five years old.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>"Vehicle" shall have the meaning as defined in Title 25 of the Code, and shall include Vehicles that cannot be drawn upon a public highway.</text>
+          <text>"Vehicle" shall have the meaning as defined in Title 25 of the Code, and shall include but not be limited to Vehicles that are propelled or cannot be drawn upon a public highway, All Terrain Vehicles, and boats.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>"Officer" shall mean a law enforcement officer employed by the U.S. Bureau of Indian Affairs and/or an official designated by the Governor of the Pueblo to enforce this Act.</text>
+          <text>"Officer" shall mean a law enforcement officer employed by the U.S. Bureau of Indian Affairs and/or a law enforcement official designated by the Governor of the Pueblo to enforce this Act.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -2802,49 +2923,750 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>"Pueblo Lands" shall mean all lands and all interests in land within the exterior boundaries of the Pueblo including any additional lands by the Pueblo.</text>
+          <text>"Pueblo Lands" shall mean all lands and all interests in land within the exterior boundaries of the Pueblo including any additional lands held by the Pueblo.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Code Enforcement Officer" shall mean an individual designated or employed by the Natural Resources Department that shall have the primary responsibility to enforce this Act.</text>
         </para>
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
-          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.5" type="History"/>
+          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.6" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.5" type="History"/>
         </annotations>
       </section>
       <section>
-        <num>24.9.1.050</num>
+        <num>24.9.1.060</num>
         <heading>Abandoned Vehicle Act Procedures</heading>
         <para>
           <num>(a)</num>
-          <text>Any Person or Persons who abandons any Vehicle on Pueblo Lands shall be cited by an Officer.  An Officer shall make reasonable efforts to determine the Owner of the Abandoned Vehicle.  If an Officer cannot determine the Owner of the Abandoned Vehicle, then the Officer shall issue a citation to the Person or Persons who own, rent, or hold a possessory interest in the property upon which the Abandoned Vehicle is located.</text>
+          <text>Any Person or Persons who abandon any Vehicle on Pueblo Lands shall be cited by a Code Enforcement Officer. A Code Enforcement Officer shall make reasonable efforts to determine the Owner of the Abandoned Vehicle. If a Code Enforcement Officer cannot determine the Owner of the Abandoned Vehicle, then the Code Enforcement Officer shall issue a citation to the Person or Persons who own, rent, or hold a possessory interest in the property upon which the Abandoned Vehicle is located.</text>
         </para>
         <para>
           <num>(b)</num>
           <text>Prior to issuance of a citation pursuant to Section 1.6(a):</text>
           <para>
             <num>(1)</num>
-            <text>If an Officer reasonably believes that an Abandoned Vehicle is located on Pueblo Lands, the Officer shall meet with the Owner or Owners of the Abandoned Vehicle, or the person responsible for the property where the Abandoned Vehicle is located, and provide a copy of this Act to the Owner, or the Person or Persons identified in Section 1.6(a) of this Act, with the date provided, and give verbal notice of a potential violation of this Act if the Abandoned Vehicle is not removed;</text>
+            <text>If a Code Enforcement Officer reasonably believes that an Abandoned Vehicle is located on Pueblo Lands, the Code Enforcement Officer shall meet with the Owner or Owners of the Abandoned Vehicle, or the person responsible for the property where the Abandoned Vehicle is located, and provide a copy of this Act to the Owner, or to the Person or Persons identified in Section 1.6(a) of this Act, with the date provided, and give written notice of a potential violation of this Act if the Abandoned Vehicle is not removed.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>If, after fourteen (14) calendar days from the issuance of a verbal notification, the Officer determines that the Abandoned Vehicle has not been removed from Pueblo Lands, the Officer shall issue a citation as described in Section 1.6(a).</text>
+            <text>If, after fourteen (14) calendar days from the issuance of a written notification, the Officer determines that the Abandoned Vehicle has not been removed from Pueblo Lands, the Code Enforcement Officer shall issue a citation as described in Section 1.6(a).</text>
           </para>
         </para>
         <para>
           <num>(c)</num>
-          <text>An Owner of an Antique Vehicle shall not be required to remove the Vehicle from Pueblo Lands; provided, that the Owner certifies in writing to the Officer, or to the Court, that the Vehicle is an Antique Vehicle, and that the Owner continuously maintains the Vehicle in a clean and safe manner, and in such a way as to not create an eyesore within the community as determined by the Officer subject to review by the Tribal Court.  A Person shall have no more than two Antique Vehicles.</text>
+          <text>An Owner of an Antique Vehicle shall not be required to remove the Vehicle from Pueblo Lands; provided, that the Owner certifies in writing to the Code Enforcement Officer, or to the Court, that the Vehicle is an Antique Vehicle, and that the Owner continuously maintains the Vehicle in a clean and safe manner, and in such a way as to not create an eyesore within the community as determined by the Code Enforcement Officer subject to review by the Trial Court. A Person shall have no more than two Antique Vehicles.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>A Person cited by an Officer for a violation of this Act shall have sixty (60) days from the date of the citation to remove the Abandoned Vehicle from Pueblo Lands without sanction or fines.  If the Person fails to timely remove the Abandoned Vehicle, then, upon request of the Officer, the Trial Court shall promptly hold a hearing to enforce the provisions of this Act; provided, that the Trial Court may provide a one-time extension of time not to exceed ninety (90) days for the Person to remove the Abandoned Vehicle.  If the Person has failed to remove the Abandoned Vehicle as ordered by the Court, then the Trial Court shall promptly issue an order declaring the Abandoned Vehicle to be forfeited and authorizing the Abandoned Vehicle to be removed by the Pueblo with the reasonable costs of the removal to be assessed by the Court against the Person.  Upon the issuance of an Order of Forfeiture by the Court, which shall designate the Pueblo as the owner of the Abandoned Vehicle, the Governor's Office shall promptly remove, or cause to be removed, the Abandoned Vehicle in question.  The Governor's Office shall provide the Person cited and the Court with a copy of an itemized billing for costs incurred due to the removal of the Abandoned Vehicle within fourteen (14) days of removal, and the Person shall be responsible for the payment of such removal costs, including reasonable court costs, attorney's fees, and collection costs, and other costs as ordered by the Trial Court.</text>
+          <text>A Person cited by a Code Enforcement Officer for a violation of this Act shall have sixty (60) days from the date of the citation to remove the Abandoned Vehicle from Pueblo Lands without sanction or fines. After sixty days, the Code Enforcement Officer shall have the authority to issue a fine for each violation of this Act in accordance with a fine scheduled adopted by the Governor. If the Person fails to timely remove the Abandoned Vehicle, then, upon request of the Code Enforcement Officer, the Trial Court shall promptly hold a hearing to enforce the provisions of this Act; provided, that the Trial Court may provide a one-time extension of time not to exceed ninety (90) days for the Person to remove the Abandoned Vehicle. If the Person has failed to remove the Abandoned Vehicle as ordered by the Court, then the Trial Court shall promptly issue an order declaring the Abandoned Vehicle to be forfeited and authorizing the Abandoned Vehicle to be removed by the Pueblo with the reasonable costs of the removal to be assessed by the Court against the Person and the payment of any fines assessed. Upon the issuance of an Order of Forfeiture by the Court, which shall designate the Pueblo as the owner of the Abandoned Vehicle, the Governor's Office shall promptly remove, or cause to be removed, the Abandoned Vehicle in question. The Governor's Office shall provide the Person cited and the Court with a copy of an itemized billing for costs incurred due to the removal of the Abandoned Vehicle within fourteen (14) days of removal and any fines assessed, and the Person shall be responsible for the payment of such removal costs and fines, including reasonable court costs, attorney's fees, and collection costs, and other costs, as ordered by the Trial Court.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>The Governor, at his discretion, may request a Bureau of Indian Affairs Officer to be present at the time the Abandoned Vehicle is removed. Any person interfering with Court-ordered removal of an Abandoned Vehicle shall be subject to the civil and criminal jurisdiction of the Pueblo, including to prosecution under the laws of the Pueblo.</text>
+          <text>The Governor, at his discretion, may request an Officer to be present at the time the Abandoned Vehicle is removed. Any Person interfering with Court-ordered removal of an Abandoned Vehicle shall be subject to the civil and criminal jurisdiction of the Pueblo, including to prosecution under the laws of the Pueblo.</text>
         </para>
         <annotations>
           <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="" type="History"/>
-          <annotation app="2018-07-28" doc="Pueblo de San Ildefonso Council Res. No. SI-R18-014" eff="2018-07-28" path="attachments|law|1.6" type="History"/>
+          <annotation app="2022-12-14" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-025" eff="2022-12-14" path="attachments|law|1.6" type="History"/>
         </annotations>
       </section>
     </container>
+  </container>
+  <container>
+    <num>24.10</num>
+    <heading>Civil Trespass</heading>
+    <prefix>Chapter</prefix>
+    <container>
+      <num>24.10.1</num>
+      <heading>Civil Trespass Act of 2022</heading>
+      <prefix>Part</prefix>
+      <section>
+        <num>24.10.1.010</num>
+        <heading>Short Title</heading>
+        <text>This enactment shall be known as the "CIVIL TRESPASS ACT OF 2022" ("Act").</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.020</num>
+        <heading>Purpose</heading>
+        <text>The purposes of this Act are to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Set the terms upon which the Pueblo will grant consent to persons to obtain an interest in, enter upon, remain on, or otherwise use Pueblo lands;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Designate administrative responsibility for responding to trespasses on Pueblo</text>
+          <text>lands;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide a mechanism to remedy trespasses upon Pueblo lands; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Specify charges, penalties and damages for trespasses to Pueblo lands.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.030</num>
+        <heading>Findings</heading>
+        <text>The Council finds and declares that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo possesses inherent sovereign powers over Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the exercise of that sovereign power, the Pueblo grants leases, easements, rights-of-way, and permits that authorize access to and use of the Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Unauthorized access and trespass upon Pueblo lands causes substantial economic damage and other harm to the Pueblo.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In October 2011, the Pueblo enacted a civil trespass code to address matters relating access and use of the Pueblo's lands and to establish a process to remedy trespasses on Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo's 2011 civil trespass code, identified as Title XXI- Civil Trespass, was not included in the Pueblo's Code that is posted on the Pueblo's website, and must be amended to reflect the changes in the Pueblo's governance structure resulting from the Governing Agreement that was enacted and approved in December 2011, a date after the enactment of the civil trespass code.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>It has been determined that it is in the best interest of the Pueblo to amend and restate Title XXI-Civil Trespass Code.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.040</num>
+        <heading>Definitions</heading>
+        <text>When used in this Act, the term:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Compliance incentive charge" means an amount equal to twenty percent (20%) of the original trespass charge for the first month plus ten percent (10%) of the then-current trespass charge times the number of months following notification of person in trespass for the second and subsequent months.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Council" means the governing body of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Governor" means the chief executive officer of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Lease" means any agreement between the Pueblo and a person that grants a right of possession of Pueblo lands for a specified purpose and duration in accordance with applicable federal law and regulations.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Permit" means any agreement between the Pueblo and a person that grants a revocable privilege to use Pueblo lands for a specified purpose. Permit includes sand and gravel and borrow material permits.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Person" means any individual, group of individuals, corporation, partnership, association, state, municipality, commission, political subdivision of a state, interstate body, the federal government or any federal agency or any other entity, but does not include the Pueblo, or other Pueblo's entities or instrumentalities as may be determined by the Council by law.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Pueblo" means Pueblo de San Ildefonso, a federally recognized Indian tribe.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Pueblo lands" means any land or any interest in land owned or held by the Pueblo, or held in trust by the United States for the Pueblo.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Realty Officer" means the realty officer of the Pueblo's Realty Department.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Right-of-way" means an agreement between the Pueblo and a person that grants an easement or right-of-way in, over, under, through or to Pueblo lands in accordance with applicable Pueblo and federal law and regulations.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Secretary" means the Secretary of the Interior or his or her authorized representative.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Trespass" means the unauthorized possession, occupancy, holding over upon, entry upon, or use of Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Trespass charge" means the annual rental value of the total acreage encumbered by the property of the person in trespass which is equal to the encumbered acreage times the highest annual rental value per acre then in place anywhere on Pueblo lands as determined by the Realty Officer. A monthly trespass charge is then determined by dividing the annual rental value by twelve (12). The trespass charge may be changed at any time to reflect the then-current highest annual rental value on Pueblo lands.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.050</num>
+        <heading>Applicability</heading>
+        <para>
+          <num>(a)</num>
+          <text>Except as otherwise provided in subsection (b) of this section, this Act applies to all Pueblo lands and to all persons holding or claiming an interest in, possessing, holding over upon, entering upon, or otherwise using, Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>This Act does not apply to persons who are Pueblo members holding or claiming an interest in, possessing, entering upon, or otherwise using Pueblo lands under a valid assignment granted by the Pueblo or the United States in accordance with applicable federal law or regulations.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.060</num>
+        <heading>Construction</heading>
+        <para>
+          <num>(a)</num>
+          <text>The provisions of this Act are to be liberally construed to effectuate the intent, findings, and purposes set forth in <cite path="24.10.1.020">Sections 24.10.1.020</cite> and <cite path="24.10.1.030">24.10.1.030</cite> of this Act, but not to conflict with applicable federal law and regulations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Nothing contained in this Act is to be construed to diminish, limit, or otherwise adversely affect any right or remedy otherwise held or available to the Pueblo or its members under other applicable law.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.070</num>
+        <heading>Act as a Condition of Future Consents, Grants and Agreements</heading>
+        <text>The provisions of this Act shall be incorporated as a term and condition of the consent or grant by the Pueblo of every lease, easement, right-of-way, or permit, unless specifically waived by the Council by law.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.080</num>
+        <heading>Prohibition Against Trespass</heading>
+        <text>It is unlawful to trespass upon Pueblo lands. Each day that a person trespasses constitutes a separate violation.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.090</num>
+        <heading>Penalties</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person who knowingly or intentionally trespasses shall be subject to a civil penalty not to exceed $5,000 for each violation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any person who negligently trespasses shall be subject to a civil penalty not to exceed $1,000 for each violation.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In determining the amount of a civil penalty, the Realty Officer shall consider the seriousness of the violation or violations, the economic benefit to the person in trespass, if any, resulting from the violation, any history of violations, any good-faith efforts to comply with applicable requirements, and any other factors as justice may require.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If a trespass occurs as a result of holding over, then the person in trespass shall pay a monthly trespass charge plus a compliance incentive charge. If the trespass is the result of knowing, intentional or negligent action of the person in trespass, the penalties specified in subsections (a) and (b) of this section may be added to trespass charges and compliance incentive charges and to any other damages specified in <cite path="24.10.1.100">Section 24.10.1.100</cite>.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.100</num>
+        <heading>Damages</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person who trespasses shall be liable to the Pueblo for all damages proximately cause by such violation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Damage proximately caused by a trespass shall be determined by the Realty Officer based upon:</text>
+          <para>
+            <num>(1)</num>
+            <text>the highest of the economic benefit to the person, the economic detriment to the Pueblo (including, but not limited to, lost opportunity costs), or the sum of the trespass charge and the compliance incentive charge;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the expense of enforcing this Act against the person in trespass;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the expense of removing the property of the person in trespass;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the expense of restoring Pueblo lands damaged by the trespass; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>all other consequential or special damages proximately flowing from the violation of this Act by the person in trespass.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.110</num>
+        <heading>Information and Investigation</heading>
+        <para>
+          <num>(a)</num>
+          <text>Upon receipt of information indicating a trespass, the Realty Officer shall</text>
+          <text>investigate to determine whether a trespass has occurred.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the Realty Officer's investigation reveals a trespass, the Realty Officer shall, after notifying the Governor, proceed in accordance with <cite path="24.10.1.120">Section 24.10.1.120</cite> of this Act.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.120</num>
+        <heading>Enforcement</heading>
+        <text>Whenever the Realty Officer finds that a person has trespassed, the Realty Officer may take one or more of the following actions:</text>
+        <para>
+          <num>(a)</num>
+          <text>Issue a Notice of Trespass and Order to Comply to the person in trespass accordance with <cite path="24.10.1.130">Section 24.10.1.130</cite> of this Act;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Issue a Notice of Assessment of Penalty and Damages to the person in trespass in accordance with <cite path="24.10.1.140">Section 24.10.1.140</cite> of this Act;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Request the Governor to initiate proceedings to exclude the person in trespass from Pueblo lands in accordance with the Pueblo's Exclusion Act; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Enforce the lease, easement, right-of-way, or permit to which the person in trespass is a party in accordance with <cite path="24.10.1.190">Section 24.10.1.190</cite> of this Act.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.130</num>
+        <heading>Notice of Trespass and Order to Comply</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Notice of Trespass and Order to Comply must be in writing, identify the person in trespass, the location and date of the trespass, and contain a short statement of facts indicating the nature and circumstances of the trespass.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Notice of Trespass and Order to Comply must specify any one or more of the following actions to remedy the trespass:</text>
+          <para>
+            <num>(1)</num>
+            <text>Removal of the person in trespass or property of the person in trespass or both from the premises;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Compliance with the terms, conditions, covenants or restrictions of any applicable lease, easement, right-of-way, or permit;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any other action as may be necessary to cure the trespass; or and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Specify a reasonable period of time within which the person in trespass may cure the trespass. The Notice of Trespass and Order to Comply, however, may not require any action or specify any time period inconsistent with any provision of the applicable lease, easement, right-of-way, or permit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Notice of Trespass and Order to Comply shall advise the person identified therein of the rights available under <cite path="24.10.1.170">Section 24.10.1.170</cite> of this Act.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Realty Officer shall serve the Notice of Trespass and Order to Comply upon the person identified in the notice in accordance with the provisions of the applicable lease, easement, right-of-way, or permit, if any.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Nothing in this section prohibits the Realty Officer from assessing any penalties or damages or both for trespasses by the person in trespass occurring before service of the Notice of Trespass and Order to Comply or before the completion of any cure period provided in the Notice of Trespass and Order to Comply.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.140</num>
+        <heading>Notice of Assessment of Penalty and Damages</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Notice of Assessment of Penalty and Damages may be served with a Notice of Trespass and Order to Comply or at any time thereafter.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Notice of Assessment of Penalty and Damages must be in writing, identify the person who is trespassing, the location and date of the trespass, and contain a short statement of facts indicating the nature and circumstances of the trespass.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Notice of Assessment of Penalty and Damages shall specify:</text>
+          <para>
+            <num>(1)</num>
+            <text>the amount of any penalties assessed in accordance with <cite path="24.10.1.090">Section 24.10.1.090</cite> of this Act.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the amount of any damages assessed in accordance with <cite path="24.10.1.100">Section 24.10.1.100</cite> of this Act;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the time period for which each assessment is made;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the date payment is due; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>advise the person identified therein of the appeals rights available under <cite path="24.10.1.170">Section 24.10.1.170</cite> of this Act.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Notice of Assessment of Penalty and Damages must be served upon the person identified in the notice in accordance with the applicable lease, easement, right-of-way, or permit, if any.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.150</num>
+        <heading>Special Land Use License</heading>
+        <para>
+          <num>(a)</num>
+          <text>In lieu of imposing any penalties under <cite path="24.10.1.090">Section 24.10.1.090</cite> or damages under <cite path="24.10.1.100">Section 24.10.1.100</cite> of this Act, the Governor may grant a Special Land Use License to the person in trespass for a period not to exceed three (3) months to allow temporary use of Pueblo lands in the absence of a valid lease, easement, rights-of-way, or permit providing the person in trespass:</text>
+          <para>
+            <num>(1)</num>
+            <text>has requested a Special Land Use License;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>has filed an application for renewal with the Secretary or the Pueblo or both</text>
+            <text>in accordance with applicable law, and paid any applicable fees; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>pays a monthly Special Land Use License fee for the Special Land Use License.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Governor may renew the Special Land Use License for an additional period of</text>
+          <text>three (3) months.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Realty Officer shall determine the monthly amount of the Special Land Use</text>
+          <text>License fee based on:</text>
+          <para>
+            <num>(1)</num>
+            <text>the amount of acreage applied for;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the prevailing annual per acre rental value of Pueblo lands as established by the realty officer using the Pueblo's land valuation methods;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>dividing the annual rental value by twelve (12); and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>adding a cumulative 1.5% settlement incentive charge per month (.015 times the first monthly rental value and .015 times the prior monthly rental value for each subsequent month).</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Payment of the Special Land Use Fee shall be due as stated in the Schedule</text>
+          <text>accompanying the Notice of Trespass and Order to Comply.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The amounts paid by the person for the Special Land Use License fee shall be credited against the final settlement amount for the trespass.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Governor may revoke the Special Land Use License if the person in trespass:</text>
+          <para>
+            <num>(1)</num>
+            <text>fails to pay the Special Land Use License fee; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>does not diligently and in good faith pursue renegotiation of the lease, right-</text>
+            <text>of-way, easement, or permit.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.160</num>
+        <heading>Payment of Penalties and Damages</heading>
+        <para>
+          <num>(a)</num>
+          <text>Penalties and damages assessed pursuant to <cite path="24.10.1.140">Section 24.10.1.140</cite> of this Act shall be due and payable upon receipt of Notice of Assessment of Penalty and Damages thereof and shall become delinquent thirty (30) days thereafter.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Payments shall be by certified check made payable to the order of the Pueblo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Interest on any delinquent payment of penalties and damages shall accrue from the date of assessment thereof until paid. The interest shall be assessed at five percent (5%) above the highest prime rate listed on the date of assessment by any bank operating within Santa Fe County, New Mexico, and shall continue in effect until the assessment is paid or otherwise discharged.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Monies collected through payment of assessments of penalties and damages, and any interest thereon, shall be deposited into such account as designated by the Tribal Council.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.170</num>
+        <heading>Appeals</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person who receives a Notice of Trespass and Order to Comply or Notice of Assessment of Penalty and Damages may file a notice of appeal with the Realty Officer within ten (10) days of the service of the Notice of Trespass and Order to Comply or Notice of Assessment of Penalty and Damages.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The notice of appeal must be in writing and:</text>
+          <para>
+            <num>(1)</num>
+            <text>identify the person who is alleged to be trespassing, the location and date of the alleged trespass, and contain a short statement of facts indicating the nature and circumstances of the alleged trespass;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>specify the order or assessment being appealed;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Specify the legal basis for the appeal; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Contain a statement of facts upon which the appellant relies in support of the appeal and any argument as appellant may care to make in support of the appeal.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Within ten (10) days after receiving a notice of appeal, the Realty Officer shall refer the notice of appeal to the Governor.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.180</num>
+        <heading>Hearing and Decision</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor shall consider the appeal within twenty (20) days of receipt of the notice of appeal by the Realty Officer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notice shall be afforded to the parties at least ten (10) days in advance of the date set for Governor to consider the appeal. Each party at the meeting to consider the appeal may be represented by counsel and shall have the opportunity to present evidence.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The decision of the Governor regarding the appeal shall be final.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.190</num>
+        <heading>Enforcement of Lease, Easement, Right-of-Way or Permit</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Governor may take any action authorized or allowed under the provisions, terms and conditions and covenants of an applicable lease, easement or right-of-way, permit, or agreement relating thereto as well as such action as may be authorized or allowed under the applicable law.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If necessary, the Governor may request the Secretary or other appropriate federal, pueblo, or state official or agency to enforce:</text>
+          <para>
+            <num>(1)</num>
+            <text>the provisions, terms, conditions and covenants of any lease, easement or right-of-way, permit or agreement relating thereto; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>federal, Pueblo, state or local law or laws applicable to any lease, easement, right-of-way, permit, or agreement relating thereto, or relating got the conduct of business or other activity on the Pueblo lands involved.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.200</num>
+        <heading>Judicial Enforcement</heading>
+        <text>The Governor may direct the tribal attorney to bring a civil action in any court of competent jurisdiction to enjoin a trespass or to obtain payment or enforcement of any assessment of damages or penalties, or for any other relief as may be authorized or allowed under any applicable law.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.210</num>
+        <heading>Severability</heading>
+        <text>If any provision of this Act as enacted, or as later amended, or its application to any person or circumstance, is held invalid by a final judgment of a court of competent jurisdiction, then the invalidity shall not affect other provisions or applications of this Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.10.1.220</num>
+        <heading>Effective Date</heading>
+        <text>This Act applies to any trespass occurring after the date the Council enacts this Act. The amendments supersede all prior laws and Act sections and shall be effective on the date of enactment.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-013" eff="2022-09-23" path="attachments|law" type="History"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>24.11</num>
+    <heading>Land Use Application Fee</heading>
+    <container>
+      <num>24.11.1</num>
+      <heading>Short Title</heading>
+      <prefix>Part</prefix>
+      <text>This enactment shall be known as the "LAND USE APPLICATION FEE ACT OF 2022" ("Act").</text>
+      <section>
+        <num>24.11.1.010</num>
+        <heading>Purpose</heading>
+        <text>The purpose of this Act is to authorize a Land Use Application Fee to be paid by an outside party who requests to use Pueblo de San Ildefonso ("Pueblo") lands for a business purpose to cover the Pueblo's costs to review and evaluate an application and to negotiate a new or renewed right-of-way, lease, permit or other land encumbrance.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-012" eff="2022-09-23" path="attachments|law|24.11" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.11.1.020</num>
+        <heading>Findings</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Pueblo de San Ildefonso possesses inherent sovereign powers over the Pueblo's lands.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the exercise of that sovereign power, the Pueblo grants leases, easements, rights-of-way, and access permits that authorize access to and use of the Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pueblo must review and evaluate applications from outside parties for new or renewed rights-of-way, leases, permits and other proposed land uses and land encumbrances on Pueblo land.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Pueblo cannot rely on the Bureau of Indian Affairs to conduct or pay for the economic, safety, and legal reviews that are necessary to ensure that the Pueblo's interests are protected prior to any approval of such applications.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Pueblo has limited financial and staffing resources and cannot and will not bear the cost of reviewing applications of outside parties interested in using Pueblo land for business purposes.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>It is appropriate that outside parties applying to use Pueblo land should be required to pay the Pueblo's reasonable costs of reviewing and evaluating and acting on an outside party's application.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>In October 2011, the Pueblo approved a land use application fee to cover the Pueblo's reasonable costs in reviewing and evaluating an application for a right-of-way, lease, permit or other document to use Pueblo lands.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo's land use application fee authorization was done by Resolution No. SI-R11-032 and was not codified and included in the Pueblo's Code that is posted on the Pueblo's website, and must be amended to reflect the changes in the Pueblo's governance structure resulting from the Governing Agreement that was enacted and approved in December 2011, a date after the approval of the land use application fee.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>It is in the best interest of the Pueblo to amend and codify the Pueblo's land use application fee authorization.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-012" eff="2022-09-23" path="attachments|law|24.11" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.11.1.030</num>
+        <heading>Land Use Application Fee</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any outside party applying for a new or renewed right-of-way, lease, permit or other document authorizing the applicant to use Pueblo land for business purposes shall be required to pay a non-refundable Land Use Application Fee to the Pueblo.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The amount of the Land Use Application Fee is set by the Governor, in consultation with the Realty Director, and shall be an amount sufficient to cover the Pueblo's costs to perform a comprehensive review and evaluation of an application and to negotiate the terms of a right-of-way, lease, or other land encumbrance that will authorize the business use of the Pueblo's land.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The calculation of a Land Use Application Fee amount includes the Pueblo's costs of:</text>
+          <para>
+            <num>(1)</num>
+            <text>Reviewing any environmental and safety impacts of the proposed land encumbrance;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Determining the monetary value of the land use rights to be authorized;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Conducting any necessary negotiations with the applicant including matters of compensation;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Obtaining legal counsel and professional consultant services required by the Pueblo; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Conducting administrative review and processing of the application or proposal.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Land Use Application Fee shall be non-refundable and must be paid in full upon receipt by the Pueblo of an applicant's formal request for the Pueblo's consideration of a new or renewed right-of-way, lease, land use permit or other document authorizing encumbrance of Pueblo land.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In the event an applicant is in trespass on the Pueblo's lands, the amount paid for the Land Use Application Fee will not be credited against any final settlement amount for the trespass.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Any applicant who objects to the amount of the Land Use Application Fee set by the Governor may appeal the amount and the timing of payment of the fee to the Governor. The decision of the Governor shall be final and not subject to further review or appeal.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Land Use Application Fee shall not apply to temporary access permits issued by the Realty Department as those permits relate to temporary access onto the Pueblo's lands and do not authorize encumbrance of the Pueblo's lands.</text>
+        </para>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-012" eff="2022-09-23" path="attachments|law|24.11" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.11.1.040</num>
+        <heading>Authorization</heading>
+        <text>The Governor or his designee is authorized to take all actions as necessary and appropriate to carry out the purposes and intent of the Act.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-012" eff="2022-09-23" path="attachments|law|24.11" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <num>24.11.1.050</num>
+        <heading>Effective Date</heading>
+        <text>The requirement for the payment of a Land Use Application Fee shall be effective as of the date the Act is approved by the Council and shall apply to all applications for a new or renewed right-of-way, lease, permit or other land encumbrance submitted to the Pueblo after the effective date of the Act.</text>
+        <annotations>
+          <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-012" eff="2022-09-23" path="attachments|law|24.11" type="History"/>
+        </annotations>
+      </section>
+    </container>
+    <annotation app="2022-09-23" doc="Pueblo de San Ildefonso Council Res. No. SI-R22-012" eff="2022-09-23" path="attachments|law|24.11" type="History"/>
   </container>
 </container>
